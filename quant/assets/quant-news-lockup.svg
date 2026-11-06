@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 272" role="img" aria-labelledby="title desc">
-<title id="title">QUANT NEWS</title><desc id="desc">Logotipo corporativo en azul marino y dorado sobrio; QUANT NEWS, Intelligence Monitor</desc>
-<text x="390" y="128" text-anchor="middle" fill="#142A43" font-family="Arial,Helvetica,sans-serif" font-size="127" font-weight="800" letter-spacing="-7">QUANT</text>
-<path d="M394 78 L447 38 L433 63 L388 94 Z" fill="#B99558"/>
-<path d="M87 184 H218 M562 184 H693" stroke="#B99558" stroke-width="2"/>
-<text x="390" y="199" text-anchor="middle" fill="#142A43" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="700" letter-spacing="15">NEWS</text>
-<text x="390" y="254" text-anchor="middle" fill="#596B7B" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="500" letter-spacing="6">INTELLIGENCE MONITOR</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 248" role="img" aria-labelledby="title desc">
+<title id="title">QUANT NEWS</title><desc id="desc">QUANT News, Intelligence Monitor. Identidad editorial corporativa azul marino y dorado.</desc>
+<text x="5" y="110" fill="#142A43" font-family="Arial,Helvetica,sans-serif" font-size="113" font-weight="800" letter-spacing="-6">QUANT</text>
+<path d="M205 63 L253 28 L240 51 L199 82 Z" fill="#B99558"/>
+<path d="M4 172 H74 M382 172 H468" stroke="#B99558" stroke-width="2"/>
+<text x="225" y="187" text-anchor="middle" fill="#142A43" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing="12">NEWS</text>
+<text x="225" y="236" text-anchor="middle" fill="#596B7B" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" letter-spacing="5">INTELLIGENCE MONITOR</text>
 </svg>
