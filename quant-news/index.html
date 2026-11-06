@@ -136,7 +136,7 @@ async function loadEdition(id){try{var m=manifest.editions.find(function(x){retu
  byId('dateline').textContent=edition.label;byId('editiontitle').textContent=edition.headline;byId('editionbadge').textContent=id===manifest.latest?'ÚLTIMA DISPONIBLE':'ARCHIVO';
  byId('editionmeta').textContent=edition.stories.length+' noticias · Archivo '+edition.date+(edition.archiveNote?' · Algunas fuentes sin enlace histórico':'');
  byId('statnum').textContent=edition.stories.length;byId('intro').textContent=edition.intro;byId('outro').textContent=edition.outro;
- fillCategories();renderDates();renderStories();if(speechSynthesis&&speechSynthesis.speaking)stopSpeech();
+ fillCategories();renderDates();renderStories();if('speechSynthesis' in window&&window.speechSynthesis.speaking)stopSpeech();
  history.replaceState(null,'','#'+id);
  }catch(err){byId('stories').replaceChildren(nodes('div','empty','No se pudo cargar esta edición. Revisa tu conexión e inténtalo nuevamente.'));byId('editiontitle').textContent='Edición no disponible'}}
 byId('search').oninput=function(e){filterText=e.target.value;if(edition)renderStories()};
