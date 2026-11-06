@@ -67,6 +67,29 @@ body{background:var(--q-off)}
 @media(max-width:620px){.news-heading{padding:37px 0}.news-name strong{font-size:44px}.news-name .subname{font-size:28px;letter-spacing:2px}.control-inner{gap:10px;flex-wrap:wrap;padding:14px 0}.control-inner span:last-child{display:none}.workspace{padding:35px 0 60px}.workspace-head{display:block}.workspace-head h1{font-size:28px}.edition-banner{padding:23px 20px}.edition-banner h2{font-size:26px}.intro{padding:20px}.story{padding:20px}.searchbar{flex-direction:column}.searchinput,.selectwrap{width:100%}.synthesis{padding:22px}}
 </style>
 <link rel="stylesheet" href="../quant/assets/quant-theme.css">
+<style>
+.heading-grid{grid-template-columns:minmax(0,1fr) minmax(340px,.87fr);gap:45px;align-items:center}
+.news-heading{padding:32px 0 38px}.news-heading .breadcrumbs{margin-bottom:21px}
+.news-name{max-width:330px!important;margin:10px 0 9px!important}
+.news-name img{width:100%!important;max-width:330px!important;height:auto!important}
+.featured-carousel{display:flex;flex-direction:column;justify-content:space-between;min-height:245px;padding:21px 23px;border:1px solid #dce4e9;border-top:3px solid #b99558;background:#f7f8fa}
+.featured-top,.featured-bottom{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.featured-top{font-size:10px;letter-spacing:1.1px;font-weight:800;color:#9c7a4b}
+#featured-category{font-size:10px;letter-spacing:1.2px;font-weight:800;color:#aa844c;text-transform:uppercase}
+#featured-title{font-size:clamp(20px,2vw,25px);line-height:1.3;margin:9px 0;color:#142a43;letter-spacing:-.4px}
+#featured-summary{font-size:12px;line-height:1.65;color:#657787;margin:0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.featured-bottom{margin-top:17px}
+#featured-read{font-size:12px;color:#142a43;font-weight:750}
+.featured-bottom button{width:33px;height:32px;background:white;border:1px solid #cfd9e0;border-radius:4px;color:#142a43;font-size:24px;line-height:1;cursor:pointer}
+.featured-bottom button:focus-visible{outline:3px solid #b99558}
+[data-theme="dark"] .featured-carousel{background:#1a2d40;border-color:#374c61;border-top-color:#c7a46d}
+[data-theme="dark"] #featured-title{color:#f0f5fa!important}
+[data-theme="dark"] #featured-summary{color:#b9c9da}
+[data-theme="dark"] #featured-read{color:#e5c58f}
+[data-theme="dark"] .featured-bottom button{background:#23394c;color:#f3f7fa;border-color:#4b6072}
+@media(max-width:950px){.heading-grid{grid-template-columns:1fr;gap:23px}.featured-carousel{min-height:225px}.news-name{max-width:300px!important}}
+@media(max-width:580px){.news-heading{padding:25px 0 30px}.featured-carousel{padding:18px;min-height:244px}}
+</style>
 <script defer src="../quant/assets/quant-theme.js"></script>
 </head>
 <body>
