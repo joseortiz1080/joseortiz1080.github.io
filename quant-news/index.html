@@ -187,4 +187,34 @@ var requested=decodeURIComponent(location.hash.replace(/^#/,''));await loadEditi
 catch(e){el('title').textContent='Archivo temporalmente no disponible';el('intro').textContent='Puedes consultar la edición actual en el RSS o en el guion narrado.';el('dates').textContent='No se pudo cargar el índice';el('stories').replaceChildren(make('div','notice','Revisa tu conexión e inténtalo nuevamente.'))}})();
 })();
 </script>
+<script>
+(function(){
+var items=[],pos=0;var get=function(id){return document.getElementById(id)};
+function show(){
+ if(!items.length)return;
+ var n=items[pos];get('featured-category').textContent=(n.category||'ACTUALIDAD').toUpperCase()+' · '+(n.region||'GLOBAL').toUpperCase();
+ get('featured-title').textContent=n.title;get('featured-summary').textContent=n.text;
+ get('featured-page').textContent=String(pos+1).padStart(2,'0')+' / '+String(items.length).padStart(2,'0');
+ get('featured-read').href='#'+n.edition;
+}
+get('featured-prev').addEventListener('click',function(){if(items.length){pos=(pos-1+items.length)%items.length;show()}});
+get('featured-next').addEventListener('click',function(){if(items.length){pos=(pos+1)%items.length;show()}});
+(async function(){
+try{
+ var resp=await fetch('./data/index.json',{cache:'no-store'});if(!resp.ok)throw Error('Índice no disponible');
+ var index=await resp.json(),latest=index.latest;
+ if(!/^\d{4}-\d{2}-\d{2}$/.test(latest))throw Error('Fecha no válida');
+ resp=await fetch('./data/'+latest+'.json',{cache:'no-store'});if(!resp.ok)throw Error('Edición no disponible');
+ var data=await resp.json();if(!Array.isArray(data.stories))return;
+ var picked=[],used=new Set();
+ [/mercad|wall street|bolsa/i,/macro|fed|banco|inflaci|tasas|econom/i,/inteligencia artificial|tecnolog|innovaci|investigaci/i].forEach(function(rx){
+ var i=data.stories.findIndex(function(n,j){return !used.has(j)&&rx.test(n.title+' '+n.category)});
+ if(i>=0){picked.push(data.stories[i]);used.add(i)}
+ });
+ data.stories.forEach(function(n,i){if(picked.length<3&&!used.has(i)){picked.push(n);used.add(i)}});
+ items=picked.slice(0,3).map(function(n){return Object.assign({},n,{edition:latest})});show();
+}catch(err){get('featured-summary').textContent='Consulta el archivo de QUANT News para leer la última edición.'}
+})();
+})();
+</script>
 </body></html>
