@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "latest": "2026-11-06",
+  "editions": [
+    {
+      "id": "2026-11-06",
+      "date": "2026-11-06",
+      "label": "Viernes, 6 de noviembre de 2026",
+      "headline": "Wall Street, tasas de interés y el costo real de la inteligencia artificial",
+      "stories": 8
+    },
+    {
+      "id": "2026-11-05",
+      "date": "2026-11-05",
+      "label": "Jueves, 5 de noviembre de 2026",
+      "headline": "Tecnología, crecimiento y riesgos: las señales de la jornada",
+      "stories": 8
+    }
+  ]
+}
