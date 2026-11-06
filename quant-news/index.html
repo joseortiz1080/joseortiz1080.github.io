@@ -12,7 +12,7 @@ body{background:var(--q-off)}
 .news-heading{background:#fff;border-bottom:1px solid var(--q-line);padding:58px 0 48px}
 .heading-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:44px;align-items:center}
 .breadcrumbs{color:#86939f;font-size:11px;letter-spacing:.3px;margin-bottom:26px}.breadcrumbs a{color:#52697c}.breadcrumbs span{margin:0 9px;color:#b0bdc5}
-.news-name{display:block;margin:7px 0 15px;max-width:450px}.news-name img{display:block;width:100%;max-width:450px;height:auto;object-fit:contain;object-position:left top}
+.news-name{display:block;margin:5px 0 8px;max-width:330px}.news-name img{display:block;width:100%;max-width:450px;height:auto;object-fit:contain;object-position:left top}
 .news-name strong{font-size:clamp(45px,6vw,79px);line-height:1;font-weight:790;letter-spacing:-3px;color:var(--q-navy)}
 .news-name .subname{font-size:clamp(27px,4vw,48px);line-height:1;font-weight:430;letter-spacing:5px;color:var(--q-gold)}
 .news-heading .lead{font-size:15px;margin:12px 0 0;max-width:740px}
@@ -80,7 +80,11 @@ body{background:var(--q-off)}
 <div class="heading-grid"><div><div class="eyebrow">Intelligence Monitor · Unidad editorial 01</div>
 <div class="news-name"><img src="../quant/assets/quant-news-lockup.svg" data-quant-logo data-logo-light="../quant/assets/quant-news-lockup.svg" data-logo-dark="../quant/assets/quant-news-lockup-dark.svg" alt="QUANT News · Intelligence Monitor" width="510" height="178"></div>
 <p class="lead">Inteligencia económica y financiera, innovación y tecnología. Noticias verificadas, análisis conectado y archivo de ediciones por día.</p>
-</div><div class="heading-aside"><div class="aside-kicker">Visión editorial</div><p>Del panorama global a las decisiones locales. Información de calidad para comprender, analizar y anticipar.</p></div></div>
+</div><section class="featured-carousel" aria-label="Noticias destacadas" aria-roledescription="carrusel">
+<div class="featured-top"><span>QUANT RADAR · EDICIÓN ACTUAL</span><span id="featured-page">01 / 03</span></div>
+<div class="featured-content" aria-live="polite"><div id="featured-category">MERCADOS · ECONOMÍA · INNOVACIÓN</div><h2 id="featured-title">Tres noticias para entender la jornada</h2><p id="featured-summary">Análisis verificado de los acontecimientos más importantes.</p></div>
+<div class="featured-bottom"><a id="featured-read" href="#ediciones">Consultar edición ↗</a><div><button type="button" id="featured-prev" aria-label="Noticia anterior">‹</button><button type="button" id="featured-next" aria-label="Noticia siguiente">›</button></div></div>
+</section></div>
 </div></section>
 <div class="control-strip"><div class="container control-inner"><span><i class="goldmark" aria-hidden="true"></i> Archivo editorial continuo</span><span>Global <b>→</b> EE. UU. <b>→</b> Europa y Asia <b>→</b> Colombia y región</span><span>QUANT / 01</span></div></div>
 <section class="container workspace" id="ediciones">
