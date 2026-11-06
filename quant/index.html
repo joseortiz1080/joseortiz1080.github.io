@@ -26,11 +26,13 @@ body{background:#fff}.hero{padding:105px 0 86px;border-bottom:1px solid var(--q-
 .today .date{font-size:11px;text-transform:uppercase;letter-spacing:1.3px;color:#ac8751;font-weight:800}.today h3{font-size:24px;margin:15px 0 13px}.today .sub{font-size:12px;color:#7d8993;margin-bottom:21px}
 @media(max-width:980px){.hero-inner,.feature-row{grid-template-columns:1fr;gap:30px}.hero{padding:65px 0}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.hero{padding:44px 0 55px}.hero h1{font-size:43px}.section{padding:55px 0}.section-head{display:block}.section-head h2{font-size:30px}.section-head p{margin-top:11px}.grid{grid-template-columns:1fr}.unit{min-height:190px}.unit h3{margin-top:20px}.feature{padding:52px 0}.feature h2{font-size:31px}.statement h2{margin-top:28px;font-size:26px}}
-</style></head>
+</style>
+<link rel="stylesheet" href="./assets/quant-theme.css">
+<script defer src="./assets/quant-theme.js"></script></head>
 <body>
 <header class="site-header"><div class="container header-inner">
-<a href="./" class="identity" aria-label="QUANT, página principal"><img src="./assets/quant-logo.svg" alt="QUANT"><span class="identity-line" aria-hidden="true"></span><span class="identity-sub">Intelligence<br>Ecosystem</span></a>
-<nav class="site-nav"><a href="#ecosistema" aria-current="page" class="nav-mobile-hide">Ecosistema</a><a href="../quant-news/">QUANT News</a><a href="#vision" class="nav-cta nav-mobile-hide">Visión</a></nav>
+<a href="./" class="identity" aria-label="QUANT, página principal"><img src="./assets/quant-logo.svg" data-quant-logo data-logo-light="./assets/quant-logo.svg" data-logo-dark="./assets/quant-logo-dark.svg" alt="QUANT"><span class="identity-line" aria-hidden="true"></span><span class="identity-sub">Intelligence<br>Ecosystem</span></a>
+<nav class="site-nav"><a href="#ecosistema" aria-current="page" class="nav-mobile-hide">Ecosistema</a><a href="../quant-news/">QUANT News</a><a href="#vision" class="nav-cta nav-mobile-hide">Visión</a><button type="button" id="quant-theme-toggle" class="theme-toggle" aria-label="Cambiar a tema oscuro" aria-pressed="false" title="Activar modo oscuro">◐ <span class="theme-label">Oscuro</span></button></nav>
 </div></header>
 <main>
 <section class="hero"><div class="container hero-inner"><div><div class="eyebrow">QUANT · Inteligencia, investigación y perspectiva</div>
