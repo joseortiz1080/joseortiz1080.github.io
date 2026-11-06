@@ -1,156 +1,161 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#08121f">
-<meta name="description" content="QUANT News: inteligencia económica, mercados financieros, innovación y tecnología. Archivo histórico de boletines diarios.">
-<title>QUANT News | Intelligence Monitor</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<meta name="description" content="QUANT News: noticias verificadas, mercados financieros, economía y tecnología. Consulta cada edición diaria y su archivo histórico.">
+<title>QUANT News | Intelligence Monitor · Ecosistema QUANT</title>
+<link rel="icon" type="image/svg+xml" href="../quant/assets/quant-mark.svg">
+<link rel="stylesheet" href="../quant/assets/quant-design-system.css">
 <style>
-:root{color-scheme:dark;--bg:#07101c;--panel:#101d2c;--panel2:#152437;--border:#26364b;--text:#edf4fc;--muted:#9aafc5;--cyan:#55c6f4;--gold:#eac582;--rad:18px}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 75% -15%,#183959 0%,transparent 35%),var(--bg);color:var(--text);font:15px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,input,a{font:inherit}a{color:inherit;text-decoration:none}button{cursor:pointer}
-.container{width:min(1190px,calc(100% - 44px));margin:auto}
-header{position:sticky;top:0;z-index:20;backdrop-filter:blur(18px);background:rgba(7,16,28,.91);border-bottom:1px solid var(--border)}
-.headerin{min-height:74px;display:flex;justify-content:space-between;align-items:center;gap:22px}
-.brand{display:flex;align-items:center;gap:12px;min-width:0}
-.brandmark{width:39px;height:39px;display:grid;place-items:center;background:linear-gradient(140deg,#2ba5e4,#173450);border:1px solid #4085af;border-radius:11px;color:white;font-weight:850;font-size:20px;letter-spacing:-2px}
-.brandname{font-weight:830;letter-spacing:.6px;font-size:18px;line-height:1}.brandname b{color:var(--cyan)}
-.brandcaption{font-size:10px;text-transform:uppercase;letter-spacing:2px;color:var(--muted);margin-top:6px}
-nav{display:flex;align-items:center;gap:24px;font-size:13px;font-weight:620;color:#c8d6e5}
-nav a:hover,.source:hover{color:var(--cyan)}.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:42px;padding:9px 16px;border-radius:11px;border:1px solid #3a5066;background:#172b3e;color:var(--text);font-size:13px;font-weight:730}
-.btn.primary{background:linear-gradient(130deg,#62cef5,#2e9fdb);border:0;color:#061a2e}.btn:hover{filter:brightness(1.12)}
-.hero{padding:62px 0 42px;display:grid;grid-template-columns:1.22fr .78fr;gap:35px;align-items:center}
-.eyebrow{font-weight:750;font-size:11px;letter-spacing:2.5px;color:var(--cyan);text-transform:uppercase;display:flex;gap:10px;align-items:center}
-.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#55c6f4;box-shadow:0 0 16px #55c6f4}
-h1{font-size:clamp(35px,5vw,62px);line-height:1.08;letter-spacing:-1.9px;margin:17px 0 19px;max-width:680px}
-h1 em{font-style:normal;color:var(--gold)}.summary{font-size:16px;color:#b7c8d9;max-width:630px;line-height:1.8}.heroactions{display:flex;flex-wrap:wrap;gap:11px;margin-top:28px}
-.signal{background:linear-gradient(148deg,rgba(34,71,106,.75),rgba(16,29,44,.96));border:1px solid #2b4f6c;border-radius:24px;padding:25px;min-height:273px;position:relative;overflow:hidden}
-.signal:before{content:"";position:absolute;right:-80px;top:-110px;width:240px;height:240px;border-radius:50%;border:45px solid rgba(85,198,244,.07)}
-.statline{display:flex;justify-content:space-between;align-items:center;gap:12px;color:var(--muted);font-size:12px}.accent{color:var(--gold);font-weight:780}
-.statnum{font-size:65px;font-weight:860;line-height:1.2;letter-spacing:-2px;margin:27px 0 0}
-.statlabel{font-size:13px;color:#b7c9dd}
-.georow{display:flex;gap:8px;flex-wrap:wrap;margin-top:23px}.georow span,.pill{font-size:11px;color:#b9d0e1;background:#1a344a;border:1px solid #33536b;border-radius:999px;padding:5px 10px}
-.strip{border-top:1px solid var(--border);border-bottom:1px solid var(--border);background:#0b1726}
-.stripin{display:flex;gap:30px;justify-content:space-between;flex-wrap:wrap;padding:15px 0;font-size:12px;color:var(--muted)}
-.strip strong{color:#e5f0fa;font-weight:700}
-.section{padding:40px 0 90px}
-.sectiontop{display:flex;justify-content:space-between;align-items:end;gap:18px;margin-bottom:25px}
-.sectiontop h2{font-size:26px;letter-spacing:-.5px;margin:3px 0}
-.sectiontop p{color:var(--muted);margin:0;font-size:13px}
-.main{display:grid;grid-template-columns:260px minmax(0,1fr);gap:25px}
-.sidebar{align-self:start;position:sticky;top:100px}
-.sideblock,.article,.editor,.empty{background:rgba(16,29,44,.88);border:1px solid var(--border);border-radius:var(--rad)}
-.sideblock{padding:18px;margin-bottom:14px}
-.kicker{font-size:11px;letter-spacing:1.7px;color:var(--muted);text-transform:uppercase;font-weight:760;margin:0 0 13px}
-.editionbutton{display:block;text-align:left;width:100%;padding:12px;border-radius:11px;border:1px solid transparent;color:var(--text);background:transparent;margin:5px 0}
-.editionbutton.active{background:#1c384d;border-color:#3b7193}.editionbutton:hover{background:#172d41}
-.editionbutton strong,.editionbutton small{display:block}.editionbutton strong{font-size:13px}.editionbutton small{font-size:11px;color:var(--muted);margin-top:2px}
-.sidelink{display:flex;justify-content:space-between;gap:8px;font-size:13px;color:#b4cfe2;padding:9px 0}
-.content{min-width:0}
-.editionhead{display:flex;justify-content:space-between;align-items:start;gap:16px;margin-bottom:18px}
-.editionhead h2{font-size:27px;line-height:1.25;margin:4px 0 7px;letter-spacing:-.8px}
-.subtle{font-size:12px;color:var(--muted)}.chip{background:#18344a;border:1px solid #355c77;color:#96d9f4;padding:5px 10px;border-radius:100px;font-size:10px;font-weight:750;white-space:nowrap}
-.editor{padding:23px;margin-bottom:23px;border-left:3px solid var(--gold)}
-.editor .kicker{color:var(--gold)}.editor p{color:#cbd9e8;margin:0;line-height:1.85}
-.tools{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:19px}
-.searchbox{flex:1;min-width:165px;position:relative}
-.searchbox input{width:100%;border:1px solid #385066;border-radius:11px;background:#12273a;color:var(--text);outline:0;padding:12px 14px;font-size:13px}
-.searchbox input:focus{border-color:var(--cyan)}
-select{color:#dbe9f8;background:#12273a;border:1px solid #385066;padding:12px 13px;border-radius:11px;font-size:13px;outline:0;max-width:210px}
-.resultcount{font-size:12px;color:var(--muted);margin-bottom:13px}
-.stories{display:grid;gap:13px}
-.article{padding:22px;transition:border .2s,transform .2s}.article:hover{border-color:#49718a;transform:translateY(-1px)}
-.articlemeta{display:flex;gap:10px;align-items:center;flex-wrap:wrap;color:var(--muted);font-size:11px;font-weight:650}
-.articlemeta .number{color:var(--cyan);font-weight:850;font-size:13px;letter-spacing:1px}
-.article h3{font-size:20px;line-height:1.34;letter-spacing:-.4px;margin:13px 0 11px}
-.article p{font-size:14px;color:#bfcfe0;margin:0;line-height:1.85}
-.articlefoot{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;border-top:1px solid #22374a;margin-top:18px;padding-top:13px;color:var(--muted);font-size:11px}
-.source{color:#83d8f7;font-weight:710}.no-url{color:#7b8e9f}
-.endblock{margin-top:24px;background:linear-gradient(130deg,#14354a,#11243a);border:1px solid #34586b;border-radius:var(--rad);padding:25px}
-.endblock h3{margin:0 0 13px;font-size:23px;letter-spacing:-.3px}
-.endblock p{margin:0;white-space:pre-wrap;color:#d1dfed;line-height:1.8;font-size:14px}
-.empty{padding:27px;text-align:center;color:var(--muted)}
-.footer{border-top:1px solid var(--border);padding:29px 0 40px;color:var(--muted);font-size:12px}
-.footerin{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}
-.sr-only{position:absolute;clip:rect(0,0,0,0);height:1px;overflow:hidden}
-@media(max-width:920px){nav{gap:12px}.hero{grid-template-columns:1fr}.signal{min-height:200px}.main{grid-template-columns:1fr}.sidebar{position:static}.sideblock:first-child{display:flex;align-items:start;gap:12px;flex-wrap:wrap}.editionbutton{width:auto;flex:1;min-width:180px}.sideblock:first-child .kicker{width:100%}}
-@media(max-width:600px){.container{width:min(100% - 28px,1190px)}.headerin{min-height:66px}.brandcaption{font-size:8px}nav a:not(.mobilekeep){display:none}.hero{padding:38px 0 26px;gap:24px}.signal{padding:21px}.section{padding-top:27px}.article{padding:17px}.editionhead h2{font-size:23px}.sectiontop h2{font-size:24px}.sectiontop{display:block}.tools{flex-direction:column}.searchbox input,select{max-width:none;width:100%}}
+body{background:var(--q-off)}
+.news-heading{background:#fff;border-bottom:1px solid var(--q-line);padding:58px 0 48px}
+.heading-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:44px;align-items:center}
+.breadcrumbs{color:#86939f;font-size:11px;letter-spacing:.3px;margin-bottom:26px}.breadcrumbs a{color:#52697c}.breadcrumbs span{margin:0 9px;color:#b0bdc5}
+.news-name{display:flex;align-items:baseline;gap:15px;margin-bottom:8px}
+.news-name strong{font-size:clamp(45px,6vw,79px);line-height:1;font-weight:790;letter-spacing:-3px;color:var(--q-navy)}
+.news-name .subname{font-size:clamp(27px,4vw,48px);line-height:1;font-weight:430;letter-spacing:5px;color:var(--q-gold)}
+.news-heading .lead{font-size:15px;margin:12px 0 0;max-width:740px}
+.heading-aside{border-left:2px solid var(--q-gold);padding:10px 0 10px 24px}
+.heading-aside .aside-kicker{font-size:10px;color:#9d835f;letter-spacing:2px;font-weight:830;text-transform:uppercase}
+.heading-aside p{font-size:13px;line-height:1.85;color:#687b8b;margin:10px 0 0}
+.control-strip{background:#fff;border-bottom:1px solid var(--q-line)}
+.control-inner{display:flex;gap:28px;align-items:center;justify-content:space-between;min-height:57px;font-size:11px;letter-spacing:1.05px;font-weight:700;text-transform:uppercase;color:#788796}
+.control-inner span{display:flex;align-items:center;gap:8px}.control-inner b{color:var(--q-navy)}
+.goldmark{width:6px;height:6px;background:var(--q-gold);display:inline-block}
+.workspace{padding:45px 0 95px}
+.workspace-head{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:28px}
+.workspace-head h1{font-size:32px;letter-spacing:-.7px;margin:6px 0 0}
+.workspace-head .helper{font-size:12px;color:var(--q-muted)}
+.layout{display:grid;grid-template-columns:270px minmax(0,1fr);gap:26px;align-items:start}
+.sidebar{position:sticky;top:105px}
+.sidecard{background:#fff;border:1px solid var(--q-line);padding:23px;margin-bottom:17px}
+.side-title{font-size:11px;text-transform:uppercase;letter-spacing:1.4px;color:#667888;font-weight:830;margin:0 0 18px}
+.editionbtn{display:block;text-align:left;width:100%;appearance:none;border:0;background:transparent;color:var(--q-navy);padding:13px 12px;border-left:3px solid transparent}
+.editionbtn:hover{background:#f5f7f9}.editionbtn.active{background:#f5f7fa;border-left-color:var(--q-gold)}
+.editionbtn strong,.editionbtn small{display:block}.editionbtn strong{font-size:12px;line-height:1.5;font-weight:730}.editionbtn small{color:#8a98a3;font-size:11px;margin-top:4px}
+.linkrow{display:flex;justify-content:space-between;gap:10px;padding:12px 0;border-bottom:1px solid var(--q-line);font-size:12px;color:#475c6d;font-weight:660}.linkrow:hover{color:#a57d44}.linkrow:last-of-type{border:0}
+.side-note{font-size:11px;line-height:1.75;color:#8b98a3;margin:12px 0 0}
+.edition-banner{background:#fff;border:1px solid var(--q-line);padding:32px 33px 30px;margin-bottom:18px;border-top:3px solid var(--q-gold)}
+.banner-header{display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
+.dateline{font-size:11px;letter-spacing:1.4px;font-weight:800;text-transform:uppercase;color:#8e724d}
+.edition-banner h2{font-size:clamp(24px,3.2vw,38px);font-weight:740;letter-spacing:-1px;margin:15px 0 12px;line-height:1.27}
+.banner-sub{color:#798794;font-size:12px}.banner-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:25px}
+.banner-actions .button{min-height:40px;padding:9px 13px}
+.intro{padding:22px 27px;background:#fff;border:1px solid var(--q-line);margin-bottom:24px}
+.sectionlabel{font-size:10px;text-transform:uppercase;letter-spacing:1.7px;font-weight:820;color:#a28251;margin:0 0 12px}
+.intro p{font-size:14px;line-height:1.9;color:#4f6070;margin:0}
+.searchbar{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.searchinput{flex:1;min-width:0}
+.searchinput input,select{width:100%;border:1px solid #d8e0e7;background:#fff;border-radius:4px;padding:11px 14px;font-size:13px;color:#24384b;min-height:43px}
+.searchinput input:focus,select:focus{border-color:#b99558;outline:2px solid #ecdcbf;outline-offset:1px}
+.selectwrap{width:220px}
+.counter{font-size:11px;color:#81909c;margin-bottom:13px}
+.storylist{display:grid;gap:13px}
+.story{background:#fff;border:1px solid var(--q-line);padding:26px 29px;transition:border-color .2s,box-shadow .2s}
+.story:hover{border-color:#ccb99c;box-shadow:0 5px 20px rgba(12,36,55,.035)}
+.storymeta{display:flex;align-items:center;flex-wrap:wrap;gap:9px;font-size:10px;color:#81909d;font-weight:700;text-transform:uppercase;letter-spacing:.7px}
+.storynum{color:#b4935c;font-weight:830;font-size:13px;margin-right:4px}
+.story h3{font-size:clamp(18px,2vw,22px);line-height:1.33;letter-spacing:-.45px;margin:15px 0 12px}
+.story p{font-size:13px;line-height:1.9;color:#536678;margin:0}
+.storyfooter{border-top:1px solid #e5eaf0;padding-top:15px;margin-top:19px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;font-size:11px;color:#7e8d9b}
+.storyfooter a{font-weight:750;color:var(--q-navy)}.storyfooter a:hover{text-decoration:underline}
+.synthesis{border:1px solid #e0e5e9;background:#fff;margin-top:23px;padding:30px;border-left:3px solid var(--q-navy)}
+.synthesis h3{font-size:25px;margin:5px 0 14px}.synthesis p{font-size:13px;line-height:1.92;white-space:pre-wrap;color:#536475;margin:0}
+.notice{background:#fff;border:1px solid var(--q-line);padding:28px;text-align:center;color:#778895;font-size:13px}
+@media(max-width:950px){.layout{grid-template-columns:1fr}.sidebar{position:static}.heading-grid{grid-template-columns:1fr}.heading-aside{display:none}.sidecard:first-child #dates{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:5px}}
+@media(max-width:620px){.news-heading{padding:37px 0}.news-name strong{font-size:44px}.news-name .subname{font-size:28px;letter-spacing:2px}.control-inner{gap:10px;flex-wrap:wrap;padding:14px 0}.control-inner span:last-child{display:none}.workspace{padding:35px 0 60px}.workspace-head{display:block}.workspace-head h1{font-size:28px}.edition-banner{padding:23px 20px}.edition-banner h2{font-size:26px}.intro{padding:20px}.story{padding:20px}.searchbar{flex-direction:column}.searchinput,.selectwrap{width:100%}.synthesis{padding:22px}}
 </style>
 </head>
 <body>
-<header><div class="container headerin">
-<a href="./" class="brand" aria-label="QUANT News inicio"><span class="brandmark">Q</span><span><span class="brandname">QUANT <b>NEWS</b></span><span class="brandcaption">Intelligence Monitor</span></span></a>
-<nav><a href="#ediciones" class="mobilekeep">Ediciones</a><a href="#archivo">Archivo</a><a href="../quant-news.xml" target="_blank" rel="noopener" class="mobilekeep">RSS</a></nav>
+<header class="site-header"><div class="container header-inner">
+<a href="../quant/" class="identity" aria-label="QUANT: ecosistema principal"><img src="../quant/assets/quant-logo.svg" alt="QUANT"><span class="identity-line" aria-hidden="true"></span><span class="identity-sub">Intelligence<br>Ecosystem</span></a>
+<nav class="site-nav"><a href="../quant/" class="nav-mobile-hide">Ecosistema</a><a href="./" aria-current="page">QUANT News</a><a href="#archivo" class="nav-mobile-hide">Archivo</a><a class="nav-cta nav-mobile-hide" href="../quant/#ecosistema">Explorar unidades</a></nav>
 </div></header>
 <main>
-<section class="container hero">
- <div><div class="eyebrow"><span class="dot"></span> QUANT INTELLIGENCE · INFORMACIÓN QUE CONECTA</div><h1>Entiende el mundo.<br><em>Anticipa lo que viene.</em></h1>
- <p class="summary">Economía, mercados financieros, inteligencia artificial y tecnología, con análisis conectado desde el contexto global hasta Colombia.</p>
- <div class="heroactions"><a class="btn primary" href="#ediciones">Explorar noticias <span aria-hidden="true">↗</span></a><button class="btn" id="listen" type="button">▶ Escuchar edición</button></div></div>
- <div class="signal"><div class="statline"><span>RADAR INFORMATIVO</span><span class="accent">● ARCHIVO DIARIO</span></div><div class="statnum" id="statnum">—</div><div class="statlabel">noticias analizadas en la edición seleccionada</div><div class="georow"><span>Global</span><span>Estados Unidos</span><span>Europa</span><span>China</span><span>Colombia</span></div></div>
-</section>
-<section class="strip"><div class="container stripin"><span><strong>Enfoque:</strong> hechos verificados y contexto</span><span><strong>Formato:</strong> análisis por conexiones</span><span><strong>Archivo:</strong> una edición por fecha</span></div></section>
-<section id="ediciones" class="container section"><div class="sectiontop"><div><div class="eyebrow">HECHOS · CONTEXTO · PROSPECTIVA</div><h2>Ediciones de QUANT News</h2><p>Consulta el boletín más reciente o explora nuestro archivo histórico.</p></div><a class="btn" href="../quant-news-voz-v2.txt" target="_blank" rel="noopener">Guion para iPhone ↗</a></div>
-<div class="main">
- <aside class="sidebar" id="archivo"><div class="sideblock"><div class="kicker">Archivo por fecha</div><div id="dates"><p class="subtle">Cargando ediciones...</p></div></div>
- <div class="sideblock"><div class="kicker">Acceso a QUANT</div><a class="sidelink" href="../quant-news.xml" target="_blank" rel="noopener">Canal RSS <span>↗</span></a><a class="sidelink" href="../quant-news-voz-v2.txt" target="_blank" rel="noopener">Guion narrado <span>↗</span></a><div class="subtle" style="padding-top:12px">Las publicaciones se archivan por día. Las fechas de cada noticia son distintas de la fecha de elaboración del boletín.</div></div></aside>
- <div class="content">
-  <div class="editionhead"><div><div class="kicker" id="dateline">Cargando fecha</div><h2 id="editiontitle">Cargando QUANT News...</h2><div class="subtle" id="editionmeta"></div></div><span class="chip" id="editionbadge">EDICIÓN</span></div>
-  <div class="editor"><div class="kicker">La apertura de QUANT</div><p id="intro">Preparando el boletín...</p></div>
-  <div class="tools"><label class="searchbox"><span class="sr-only">Buscar noticias</span><input type="search" id="search" placeholder="Buscar tema, compañía o palabra clave..."></label><label><span class="sr-only">Filtrar por categoría</span><select id="category"><option value="">Todas las categorías</option></select></label></div>
-  <div class="resultcount" id="resultcount"></div><div class="stories" id="stories" aria-live="polite"></div>
-  <section class="endblock"><div class="kicker" style="color:#9edaf3">CONEXIONES · EL HILO CONDUCTOR</div><h3>¿Qué relaciona las noticias de hoy?</h3><p id="outro">Cargando análisis integrado...</p></section>
- </div>
+<section class="news-heading"><div class="container">
+<div class="breadcrumbs"><a href="../quant/">QUANT</a><span>/</span>Unidades editoriales<span>/</span>News</div>
+<div class="heading-grid"><div><div class="eyebrow">Intelligence Monitor · Unidad editorial 01</div>
+<div class="news-name"><strong>QUANT</strong><span class="subname">NEWS</span></div>
+<p class="lead">Inteligencia económica y financiera, innovación y tecnología. Noticias verificadas, análisis conectado y archivo de ediciones por día.</p>
+</div><div class="heading-aside"><div class="aside-kicker">Visión editorial</div><p>Del panorama global a las decisiones locales. Información de calidad para comprender, analizar y anticipar.</p></div></div>
 </div></section>
+<div class="control-strip"><div class="container control-inner"><span><i class="goldmark" aria-hidden="true"></i> Archivo editorial continuo</span><span>Global <b>→</b> EE. UU. <b>→</b> Europa y Asia <b>→</b> Colombia y región</span><span>QUANT / 01</span></div></div>
+<section class="container workspace" id="ediciones">
+<div class="workspace-head"><div><div class="eyebrow">Ediciones y fuentes</div><h1>Monitor informativo</h1></div><div class="helper">Selecciona un día para consultar su análisis completo.</div></div>
+<div class="layout">
+<aside class="sidebar" id="archivo">
+<div class="sidecard"><div class="side-title">Archivo por fecha</div><div id="dates"><p class="side-note">Cargando archivo de ediciones...</p></div></div>
+<div class="sidecard"><div class="side-title">Canales QUANT News</div>
+<a href="../quant-news.xml" target="_blank" rel="noopener" class="linkrow">Suscripción RSS <span>↗</span></a>
+<a href="../quant-news-voz-v2.txt" target="_blank" rel="noopener" class="linkrow">Guion de voz para iPhone <span>↗</span></a>
+<a href="../quant/" class="linkrow">Ecosistema QUANT <span>↗</span></a>
+<p class="side-note">Cada fecha corresponde a una edición editorial. Las noticias pueden referirse a hechos de jornadas anteriores.</p>
+</div>
+</aside>
+<div class="newscontent">
+<section class="edition-banner"><div class="banner-header"><span class="dateline" id="dateline">Cargando fecha...</span><span class="tag gold" id="badge">EDICIÓN</span></div>
+<h2 id="title">Preparando QUANT News...</h2><div class="banner-sub" id="meta"></div>
+<div class="banner-actions"><button type="button" class="button primary" id="listen">▶ Escuchar la edición</button><a class="button" href="../quant-news-voz-v2.txt" rel="noopener" target="_blank">Abrir guion ↗</a></div></section>
+<section class="intro"><div class="sectionlabel">Apertura · QUANT News</div><p id="intro">Cargando información...</p></section>
+<div class="searchbar"><label class="searchinput"><span class="sr-only" style="position:absolute;clip:rect(0,0,0,0)">Buscar</span><input id="search" type="search" placeholder="Buscar por noticia, tema o concepto..."></label>
+<label class="selectwrap"><span class="sr-only" style="position:absolute;clip:rect(0,0,0,0)">Categoría</span><select id="category"><option value="">Todas las categorías</option></select></label></div>
+<div class="counter" id="counter"></div><div class="storylist" id="stories" aria-live="polite"></div>
+<section class="synthesis"><div class="sectionlabel">QUANT / ANÁLISIS CONECTADO</div><h3>El hilo conductor de hoy</h3><p id="outro">Cargando análisis editorial...</p></section>
+</div></div></section>
 </main>
-<footer class="footer"><div class="container footerin"><span><strong style="color:#e7f4ff">QUANT NEWS</strong> · Intelligence Monitor</span><span>Economía · Finanzas · Investigación · Tecnología</span><span>Informar para comprender, analizar y anticipar.</span></div></footer>
+<footer class="site-footer"><div class="container footer-row"><span><strong>QUANT</strong> · Intelligence Ecosystem</span><span>QUANT News · Unidad editorial del ecosistema.</span><span>Comprender · Analizar · Anticipar</span></div></footer>
 <script>
 (function(){
 'use strict';
-var manifest=null,edition=null,filterText='',category='';
-var byId=function(id){return document.getElementById(id)};
-function escapeHtml(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
-function safeURL(s){try{var u=new URL(s);return u.protocol==='https:'?u.href:''}catch(e){return ''}}
-function nodes(tag,cls,text){var el=document.createElement(tag);if(cls)el.className=cls;if(text!=null)el.textContent=text;return el}
-function renderDates(){var root=byId('dates');root.replaceChildren();manifest.editions.forEach(function(x){
- var b=nodes('button','editionbutton'+(edition&&edition.id===x.id?' active':''));b.type='button';b.setAttribute('aria-pressed',String(Boolean(edition&&edition.id===x.id)));
- b.appendChild(nodes('strong','',x.label));b.appendChild(nodes('small','',x.stories+' noticias · '+(x.id===manifest.latest?'Última disponible':'Archivo')));
- b.onclick=function(){loadEdition(x.id)};root.appendChild(b)})}
-function renderStories(){
- var term=filterText.toLocaleLowerCase('es').trim();var data=edition.stories.filter(function(s){return (!category||category===s.category)&&(!term||[s.title,s.text,s.category,s.region,s.source].join(' ').toLocaleLowerCase('es').includes(term))});
- byId('resultcount').textContent=data.length+' de '+edition.stories.length+' noticias';
- var root=byId('stories');root.replaceChildren();
- if(!data.length){root.appendChild(nodes('div','empty','No se encontraron noticias con esos filtros.'));return}
- data.forEach(function(s){var art=nodes('article','article');var meta=nodes('div','articlemeta');
- meta.appendChild(nodes('span','number',String(s.id).padStart(2,'0')));meta.appendChild(nodes('span','pill',s.category));meta.appendChild(nodes('span','',s.region));
- art.appendChild(meta);art.appendChild(nodes('h3','',s.title));art.appendChild(nodes('p','',s.text));
- var foot=nodes('div','articlefoot');foot.appendChild(nodes('span','',s.source?'Fuente: '+s.source:'Edición archivada'));
- var url=safeURL(s.url);if(url){var link=nodes('a','source','Consultar fuente original ↗');link.href=url;link.rel='noopener noreferrer';link.target='_blank';foot.appendChild(link)}
- else foot.appendChild(nodes('span','no-url','Enlace original no archivado'));
- art.appendChild(foot);root.appendChild(art);
- })}
-function fillCategories(){var select=byId('category');select.replaceChildren();var o=nodes('option','','Todas las categorías');o.value='';select.appendChild(o);[...new Set(edition.stories.map(function(x){return x.category}))].sort().forEach(function(c){var x=nodes('option','',c);x.value=c;select.appendChild(x)});category=''}
-async function loadJSON(path){var res=await fetch(path+'?v='+Date.now(),{cache:'no-store'});if(!res.ok)throw new Error('HTTP '+res.status);return await res.json()}
-async function loadEdition(id){try{var m=manifest.editions.find(function(x){return x.id===id});if(!m)throw new Error('Edición no disponible');
- edition=await loadJSON('./data/'+encodeURIComponent(id)+'.json');filterText='';category='';byId('search').value='';
- byId('dateline').textContent=edition.label;byId('editiontitle').textContent=edition.headline;byId('editionbadge').textContent=id===manifest.latest?'ÚLTIMA DISPONIBLE':'ARCHIVO';
- byId('editionmeta').textContent=edition.stories.length+' noticias · Archivo '+edition.date+(edition.archiveNote?' · Algunas fuentes sin enlace histórico':'');
- byId('statnum').textContent=edition.stories.length;byId('intro').textContent=edition.intro;byId('outro').textContent=edition.outro;
- fillCategories();renderDates();renderStories();if('speechSynthesis' in window&&window.speechSynthesis.speaking)stopSpeech();
- history.replaceState(null,'','#'+id);
- }catch(err){byId('stories').replaceChildren(nodes('div','empty','No se pudo cargar esta edición. Revisa tu conexión e inténtalo nuevamente.'));byId('editiontitle').textContent='Edición no disponible'}}
-byId('search').oninput=function(e){filterText=e.target.value;if(edition)renderStories()};
-byId('category').onchange=function(e){category=e.target.value;if(edition)renderStories()};
-var speaking=false,speechQueue=[],speechIndex=0;
-function stopSpeech(){if('speechSynthesis' in window)window.speechSynthesis.cancel();speaking=false;byId('listen').textContent='▶ Escuchar edición'}
-function speakNext(){if(!speaking||speechIndex>=speechQueue.length){stopSpeech();return}
- var u=new SpeechSynthesisUtterance(speechQueue[speechIndex++]);u.lang='es-CO';u.rate=.93;u.onend=speakNext;u.onerror=stopSpeech;window.speechSynthesis.speak(u)}
-byId('listen').onclick=function(){if(!('speechSynthesis' in window)){alert('Tu navegador no admite lectura de voz. Usa el Atajo del iPhone o abre el guion.');return}if(speaking){stopSpeech();return}if(!edition)return;
- speechQueue=[edition.intro].concat(edition.stories.map(function(s){return 'Noticia '+s.id+' de '+edition.stories.length+'. '+s.title+'. '+s.text})).concat([edition.outro]);
- speechIndex=0;speaking=true;byId('listen').textContent='■ Detener narración';speakNext()};
-window.addEventListener('pagehide',stopSpeech);
-(async function(){try{manifest=await loadJSON('./data/index.json');if(!manifest.editions||!manifest.editions.length)throw new Error('Sin ediciones');var hash=location.hash.slice(1);await loadEdition(manifest.editions.some(function(x){return x.id===hash})?hash:manifest.latest)}
-catch(e){byId('editiontitle').textContent='No se pudo cargar el archivo';byId('intro').textContent='La información está disponible también en el canal RSS y en el guion narrado.';byId('dates').textContent='Sin datos disponibles';byId('stories').replaceChildren(nodes('div','empty','Comprueba la conexión e intenta actualizar la página.'))}})();
+var manifest,edition,query='',cat='',speaking=false,speechList=[],speechAt=0;
+var el=function(id){return document.getElementById(id)};
+var make=function(tag,className,txt){var n=document.createElement(tag);if(className)n.className=className;if(txt!==undefined)n.textContent=txt;return n};
+function validURL(s){try{var u=new URL(s);return u.protocol==='https:'?u.href:null}catch(e){return null}}
+async function readJson(path){var sep=path.indexOf('?')<0?'?':'&';var r=await fetch(path+sep+'cb='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('No se pudo consultar '+path);return await r.json()}
+function renderDates(){var target=el('dates');target.replaceChildren();manifest.editions.forEach(function(ed){
+var b=make('button','editionbtn'+(edition.id===ed.id?' active':''));b.type='button';
+b.setAttribute('aria-pressed',String(ed.id===edition.id));b.appendChild(make('strong','',ed.label));
+b.appendChild(make('small','',ed.stories+' noticias · '+(ed.id===manifest.latest?'Más reciente':'Histórica')));
+b.addEventListener('click',function(){loadEdition(ed.id)});target.appendChild(b)})}
+function render(){if(!edition)return;
+var term=query.trim().toLocaleLowerCase('es');var matches=edition.stories.filter(function(s){return(!cat||s.category===cat)&&(!term||[s.title,s.text,s.category,s.region,s.source].join(' ').toLocaleLowerCase('es').includes(term))});
+el('counter').textContent=matches.length+' de '+edition.stories.length+' noticias';
+var root=el('stories');root.replaceChildren();
+if(!matches.length){root.appendChild(make('div','notice','No hay noticias para los filtros seleccionados.'));return}
+matches.forEach(function(s){
+var card=make('article','story'),top=make('div','storymeta');
+top.appendChild(make('span','storynum',String(s.id).padStart(2,'0')));
+top.appendChild(make('span','',s.category||'Análisis'));top.appendChild(make('span','','·'));top.appendChild(make('span','',s.region||'Global'));
+card.appendChild(top);card.appendChild(make('h3','',s.title));card.appendChild(make('p','',s.text));
+var foot=make('div','storyfooter');foot.appendChild(make('span','',s.source?'Fuente: '+s.source:'Edición histórica'));
+var href=validURL(s.url);if(href){var a=make('a','','Consultar fuente original ↗');a.href=href;a.target='_blank';a.rel='noopener noreferrer';foot.appendChild(a)}
+else foot.appendChild(make('span','','Fuente no archivada'));
+card.appendChild(foot);root.appendChild(card)})}
+function categories(){var select=el('category');select.replaceChildren();var first=make('option','','Todas las categorías');first.value='';select.appendChild(first);
+Array.from(new Set(edition.stories.map(function(s){return s.category}).filter(Boolean))).sort().forEach(function(c){var option=make('option','',c);option.value=c;select.appendChild(option)});cat=''}
+function stop(){if('speechSynthesis' in window)window.speechSynthesis.cancel();speaking=false;el('listen').textContent='▶ Escuchar la edición'}
+function nextPart(){if(!speaking||speechAt>=speechList.length){stop();return}
+var part=new SpeechSynthesisUtterance(speechList[speechAt++]);part.lang='es-CO';part.rate=.94;part.onend=nextPart;part.onerror=stop;window.speechSynthesis.speak(part)}
+async function loadEdition(id){try{
+var active=manifest.editions.find(function(x){return x.id===id});if(!active)throw Error('Fecha no disponible');
+stop();var data=await readJson('./data/'+encodeURIComponent(id)+'.json');if(!Array.isArray(data.stories))throw Error('Datos de la edición incorrectos');
+edition=data;query='';cat='';el('search').value='';
+el('dateline').textContent=edition.label;el('badge').textContent=id===manifest.latest?'ÚLTIMA EDICIÓN':'ARCHIVO HISTÓRICO';
+el('title').textContent=edition.headline;el('meta').textContent=edition.stories.length+' noticias · Publicación editorial '+edition.date;
+el('intro').textContent=edition.intro;el('outro').textContent=edition.outro;
+categories();renderDates();render();history.replaceState(null,'','#'+encodeURIComponent(id));
+}catch(e){el('title').textContent='No fue posible consultar esta edición';el('stories').replaceChildren(make('div','notice','Intenta nuevamente en unos momentos.'))}}
+el('search').addEventListener('input',function(e){query=e.target.value;render()});
+el('category').addEventListener('change',function(e){cat=e.target.value;render()});
+el('listen').addEventListener('click',function(){if(!('speechSynthesis' in window)){alert('Tu navegador no ofrece lectura de voz. Puedes utilizar el Atajo de iPhone.');return}
+if(speaking){stop();return}if(!edition)return;
+speechList=[edition.intro].concat(edition.stories.map(function(s){return 'Noticia '+s.id+' de '+edition.stories.length+'. '+s.title+'. '+s.text})).concat([edition.outro]);
+speechAt=0;speaking=true;el('listen').textContent='■ Detener lectura';nextPart()});
+window.addEventListener('pagehide',stop);
+(async function(){try{manifest=await readJson('./data/index.json');if(!manifest.editions||!manifest.editions.length)throw Error('No hay ediciones');
+var requested=decodeURIComponent(location.hash.replace(/^#/,''));await loadEdition(manifest.editions.some(function(e){return e.id===requested})?requested:manifest.latest)}
+catch(e){el('title').textContent='Archivo temporalmente no disponible';el('intro').textContent='Puedes consultar la edición actual en el RSS o en el guion narrado.';el('dates').textContent='No se pudo cargar el índice';el('stories').replaceChildren(make('div','notice','Revisa tu conexión e inténtalo nuevamente.'))}})();
 })();
 </script>
 </body></html>
