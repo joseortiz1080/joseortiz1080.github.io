@@ -1,0 +1,4 @@
+QUANT NEWS - IDENTIDAD CORPORATIVA BLANCA
+Version: 2026-11-06-corporativo-v2
+Si puedes leer este archivo desde joseortiz1080.github.io, GitHub Pages esta sirviendo nuevos archivos del repositorio main.
+El portal actualizado esta en /quant-news/ y la pagina matriz en /quant/.
