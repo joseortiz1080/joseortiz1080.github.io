@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-07",
+  "date": "2026-11-07",
+  "label": "Sábado, 7 de noviembre de 2026",
+  "eyebrow": "Edición del sábado",
+  "headline": "Empleo de Estados Unidos, volatilidad tecnológica y reservas de Colombia",
+  "intro": "Buenos días.\nHoy es sábado, 7 de noviembre de 2026.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nRevisaremos la recuperación parcial de Wall Street, la fortaleza del empleo estadounidense y la compra de reservas internacionales en Colombia.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy.\nLa fortaleza del empleo estadounidense modifica las expectativas sobre tasas y dólar, mientras las acciones tecnológicas intentan estabilizarse. Al mismo tiempo, el crecimiento de la inteligencia artificial enfrenta límites concretos de energía, financiación y regulación. Estas condiciones internacionales pueden transmitirse a Colombia mediante el tipo de cambio, el costo del crédito y la inversión. En paralelo, el Banco de la República reforzó sus reservas internacionales. Para Meta y la Orinoquía no se identificó hoy un impacto regional específico verificable; cualquier efecto debe medirse con datos locales.\nTres señales para vigilar: primera, el rendimiento del bono del Tesoro estadounidense a diez años cuando reabran los mercados; segunda, los anuncios oficiales sobre infraestructura y regulación de inteligencia artificial; y tercera, la tasa representativa del mercado y las comunicaciones del Banco de la República sobre liquidez.\nHasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Wall Street recupera terreno, pero termina una semana difícil para la tecnología",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "text": "El viernes, el S y P quinientos avanzó cero coma tres por ciento y el Nasdaq ganó cerca de uno coma uno por ciento, mientras el Dow Jones cayó alrededor de medio punto porcentual. El rebote de las acciones vinculadas con inteligencia artificial no borró las pérdidas semanales. Para empresas e inversionistas, el canal de transmisión es la valoración de proyectos tecnológicos y el costo de captar capital; no puede asumirse que la recuperación de una sesión marque una tendencia duradera.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/bba6f0bf9035a6e6b1c4fef3e8230b89"
+    },
+    {
+      "id": 2,
+      "title": "El empleo estadounidense sorprende al alza y fortalece al dólar",
+      "category": "Macroeconomía",
+      "region": "Estados Unidos",
+      "text": "Estados Unidos informó ciento sesenta y cinco mil nuevos empleos en octubre y una tasa de desempleo de cuatro coma uno por ciento. El dólar y los rendimientos de los bonos del Tesoro subieron mientras los operadores ajustaban sus expectativas sobre la Reserva Federal. Si persiste una política monetaria más restrictiva, podría aumentar el costo del financiamiento internacional; su efecto sobre Colombia dependerá también de los flujos de capital y las decisiones locales.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-holds-yen-gains-equity-rout-saps-risk-appetite-ahead-payrolls-2026-11-06/"
+    },
+    {
+      "id": 3,
+      "title": "El Fondo Monetario advierte sobre los riesgos de una desaceleración de la inversión en inteligencia artificial",
+      "category": "Inteligencia artificial",
+      "region": "Global",
+      "text": "La directora del Fondo Monetario Internacional, Kristalina Georgieva, señaló que una eventual desaceleración del crecimiento impulsado por inteligencia artificial sería relevante para las decisiones de los bancos centrales. El auge de la infraestructura tecnológica ha apoyado la actividad, pero también plantea presiones de financiación y riesgos de estabilidad. Se trata de una advertencia sobre escenarios posibles, no de una contracción ya confirmada.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/imfs-georgieva-says-any-slowdown-ai-driven-growth-would-be-factor-central-banks-2026-11-06/"
+    },
+    {
+      "id": 4,
+      "title": "Europa cuestiona el costo energético y social de los centros de datos",
+      "category": "Tecnología",
+      "region": "Europa",
+      "text": "Más de cien activistas ingresaron el viernes a una obra de centro de datos vinculada con Microsoft en Ámsterdam, en una protesta sobre consumo de energía, agua y uso del suelo. La expansión de la inteligencia artificial requiere infraestructura física y permisos, no solo software. Para operadores y proveedores, la disponibilidad de electricidad y la aceptación social pueden influir en costos y cronogramas, aunque la protesta no demuestra por sí misma una paralización general del sector.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/"
+    },
+    {
+      "id": 5,
+      "title": "La Unión Europea plantea objeciones preliminares al sistema de recomendaciones de TikTok",
+      "category": "Regulación digital",
+      "region": "Europa",
+      "text": "La Comisión Europea formuló objeciones preliminares sobre el funcionamiento del algoritmo de recomendaciones de TikTok bajo la Ley de Servicios Digitales. La plataforma rechazó los señalamientos y el procedimiento aún no equivale a una sanción definitiva. El caso importa porque las obligaciones sobre diseño y protección de usuarios pueden alterar los costos de cumplimiento de plataformas y anunciantes.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/meta-pauses-planned-terms-updates-keeps-existing-rules-place-2026-11-06/"
+    },
+    {
+      "id": 6,
+      "title": "Estados Unidos exige a China cumplir compromisos sobre minerales y productos agrícolas",
+      "category": "Comercio global",
+      "region": "China",
+      "text": "Washington pidió a Pekín avanzar en compromisos comerciales sobre tierras raras, minerales críticos y compras agrícolas. China manifestó inquietudes por las restricciones comerciales estadounidenses y las partes mantuvieron las consultas. Los minerales son insumos estratégicos para industrias tecnológicas y manufactureras; eventuales cambios en su suministro podrían afectar cadenas globales, pero no hay que confundir exigencias diplomáticas con entregas efectivamente realizadas.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-urged-beijing-implement-commitments-busan-trade-deal-treasury-says-2026-11-06/"
+    },
+    {
+      "id": 7,
+      "title": "China amplía su influencia comercial mediante tecnologías limpias",
+      "category": "Innovación",
+      "region": "China",
+      "text": "Un análisis de Reuters describe cómo las exportaciones chinas de paneles solares, baterías y vehículos eléctricos están ampliando el acceso a tecnologías de menores emisiones en países en desarrollo. La escala industrial puede reducir precios de adquisición, aunque las cifras sobre emisiones evitadas son estimaciones sujetas a condiciones de uso. Para Colombia, el mecanismo potencial pasa por costos de equipos, competencia de proveedores y decisiones de inversión energética, no por un beneficio regional ya medido.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/how-chinas-clean-tech-machine-is-reshaping-global-climate-fight-2026-11-06/"
+    },
+    {
+      "id": 8,
+      "title": "El Banco de la República compra dos mil millones de dólares para fortalecer las reservas",
+      "category": "Colombia",
+      "region": "Colombia",
+      "text": "El Banco de la República confirmó la compra de dos mil millones de dólares al Gobierno Nacional a la tasa representativa del mercado vigente. La operación incrementó las reservas internacionales y complementa el programa de acumulación iniciado en agosto. El banco indicó que vigilará los efectos sobre la liquidez en pesos para preservar la transmisión de su tasa de política; esto no equivale a una predicción de la cotización del dólar.",
+      "source": "Banco de la República",
+      "url": "https://www.banrep.gov.co/es/noticias/junta-directiva/banrep-compro-2000-millones-dolares-nov-2026"
+    }
+  ]
+}
