@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-06",
+  "latest": "2026-11-07",
   "editions": [
+    {
+      "id": "2026-11-07",
+      "date": "2026-11-07",
+      "label": "Sábado, 7 de noviembre de 2026",
+      "headline": "Empleo de Estados Unidos, volatilidad tecnológica y reservas de Colombia",
+      "stories": 8
+    },
     {
       "id": "2026-11-06",
       "date": "2026-11-06",
