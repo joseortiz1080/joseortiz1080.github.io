@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-07",
+  "latest": "2026-11-08",
   "editions": [
+    {
+      "id": "2026-11-08",
+      "date": "2026-11-08",
+      "label": "Domingo, 8 de noviembre de 2026",
+      "headline": "Capital global, petróleo y oportunidades de comercio exterior para Colombia",
+      "stories": 8
+    },
     {
       "id": "2026-11-07",
       "date": "2026-11-07",
