@@ -1,1 +1,83 @@
-undefined
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "label": "Lunes, 9 de noviembre de 2026",
+  "eyebrow": "Edición del lunes",
+  "headline": "Dólar y tasas, tregua comercial y costos reales de la inteligencia artificial",
+  "intro": "Buenos días.\nHoy es lunes, 9 de noviembre de 2026.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nEsta mañana observamos un dólar fortalecido por las expectativas sobre la Reserva Federal, una nueva tregua comercial entre China y Estados Unidos y los desafíos energéticos de la inteligencia artificial.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy.\nEl empleo estadounidense sostiene expectativas de tasas más altas y un dólar fuerte, mientras China extiende temporalmente alivios comerciales. A la vez, el crecimiento de la inteligencia artificial enfrenta límites físicos de energía y grandes necesidades de financiación, como muestran las turbinas escasas y la compra de JSR en Japón. Este escenario global llega a Colombia a través del costo del capital, el tipo de cambio y los precios de insumos, mientras internamente la vivienda y la inflación esperada presionan las decisiones financieras. En Meta y la Orinoquía no se verificó hoy un efecto cuantificado específico: habrá que seguir los datos regionales antes de afirmarlo.\nTres señales observables para vigilar hoy: primero, el dólar frente al peso y los rendimientos de los bonos del Tesoro de Estados Unidos; segundo, la reacción del Nasdaq y de las acciones vinculadas a infraestructura de inteligencia artificial; y tercero, las publicaciones oficiales de inflación y las condiciones del crédito hipotecario en Colombia.\nHasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "El dólar se mantiene fuerte por las apuestas de nuevas alzas de la Reserva Federal",
+      "category": "Mercados y política monetaria",
+      "region": "Estados Unidos",
+      "text": "El dólar se mantenía cerca de máximos de año y medio frente al euro, después de que los sólidos datos de empleo de octubre en Estados Unidos elevaran las expectativas de un aumento de tasas de la Reserva Federal en diciembre. Reuters informó que el mercado asignaba una probabilidad cercana al ochenta y uno por ciento a esa subida; es una expectativa, no una decisión oficial. Un dólar más fuerte y tasas estadounidenses más altas pueden encarecer el financiamiento externo y afectar el peso colombiano, aunque la reacción local aún debe observarse.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-2026-11-09/"
+    },
+    {
+      "id": 2,
+      "title": "China prolonga la suspensión de aranceles adicionales y tasas portuarias a Estados Unidos",
+      "category": "Comercio exterior",
+      "region": "China y Estados Unidos",
+      "text": "China anunció una prórroga de dos meses en la suspensión de su arancel adicional del veinticuatro por ciento sobre bienes estadounidenses y de los cargos portuarios especiales a buques vinculados con Estados Unidos. La medida mantiene temporalmente condiciones menos restrictivas para determinados intercambios comerciales, pero no significa que el conflicto arancelario esté resuelto. La evolución de estos costos puede influir en cadenas de suministro, transporte marítimo y precios internacionales.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-extends-suspension-24-tariff-us-imports-two-months-2026-11-09/"
+    },
+    {
+      "id": 3,
+      "title": "El Banco de la Reserva de Australia advierte que la IA aún no demuestra grandes ganancias de productividad",
+      "category": "Inteligencia artificial",
+      "region": "Asia y Oceanía",
+      "text": "La subgobernadora del banco central australiano, Sarah Hunter, señaló que todavía existe evidencia limitada de mejoras sustanciales de productividad o pérdidas generalizadas de empleo por inteligencia artificial. Advirtió que la construcción de centros de datos puede elevar inicialmente la demanda y la inflación, mientras los beneficios productivos podrían llegar más adelante. Para inversionistas y empresas, el punto central es distinguir el gasto actual en infraestructura de los retornos futuros, que siguen siendo inciertos.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/rbas-hunter-says-ai-has-yet-deliver-productivity-boost-trigger-job-losses-2026-11-08/"
+    },
+    {
+      "id": 4,
+      "title": "La demanda energética de centros de datos impulsa la búsqueda de turbinas usadas",
+      "category": "Tecnología y energía",
+      "region": "Global",
+      "text": "Desarrolladores de centros de datos están buscando turbinas de gas usadas y motores de avión adaptados para generar electricidad ante los largos plazos de entrega de equipos nuevos. Según las estimaciones citadas por Reuters, los pedidos globales superan cien gigavatios, frente a una capacidad anual de fabricación de sesenta a setenta gigavatios. La escasez puede elevar los costos y retrasar proyectos de inteligencia artificial; es un riesgo de ejecución, no una prueba de que todos los proyectos serán inviables.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/"
+    },
+    {
+      "id": 5,
+      "title": "Mitsui Chemicals acuerda comprar JSR para fortalecer materiales de semiconductores",
+      "category": "Industria y semiconductores",
+      "region": "Japón",
+      "text": "Mitsui Chemicals anunció la adquisición de JSR, fabricante de materiales para chips, por un billón ochocientos cuarenta mil millones de yenes, equivalentes aproximadamente a once mil seiscientos diez millones de dólares. La operación busca ampliar la capacidad japonesa en insumos de semiconductores, pero también implica endeudamiento significativo; las acciones de Mitsui caían ocho coma cinco por ciento según Reuters. El caso muestra cómo la competencia tecnológica se transmite a decisiones industriales, financiación y valoraciones bursátiles.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/mitsui-chemicals-dbj-buy-jsr-116-billion-filing-shows-2026-11-09/"
+    },
+    {
+      "id": 6,
+      "title": "Las bolsas europeas avanzan impulsadas por bancos y operaciones corporativas",
+      "category": "Mercados europeos",
+      "region": "Europa",
+      "text": "El índice europeo STOXX seiscientos subía alrededor de medio por ciento durante la mañana del lunes y las acciones bancarias avanzaban uno coma seis por ciento. La propuesta de integración entre negocios de Crédit Agricole y Banco BPM, junto con resultados favorables de UniCredit, respaldaba al sector financiero. Estos movimientos son observados en Europa y no implican por sí solos un cambio equivalente en las condiciones crediticias de Colombia.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/europe/europe-shares-tread-water-investors-weigh-ai-trade-banks-focus-2026-11-09/"
+    },
+    {
+      "id": 7,
+      "title": "Colombia acumula viviendas sociales terminadas sin vender y retroceden las ventas",
+      "category": "Vivienda y crédito",
+      "region": "Colombia",
+      "text": "Forbes Colombia informó, con base en cifras de Camacol y un análisis del Banco de la República, que las ventas de vivienda nueva entre enero y septiembre cayeron once coma nueve por ciento frente al mismo período de dos mil veinticinco. También disminuyeron los lanzamientos de proyectos, mientras aumentó la acumulación de viviendas de interés social terminadas sin vender. El fenómeno afecta la liquidez de constructoras y puede repercutir en empleo, crédito hipotecario y actividad económica regional, pero no se dispone de una medición específica para Meta en esta noticia.",
+      "source": "Forbes Colombia",
+      "url": "https://forbes.co/economia-y-finanzas/casas-listas-ventas-en-caida-el-problema-que-sacude-al-negocio-de-la-vivienda-en-colombia"
+    },
+    {
+      "id": 8,
+      "title": "El pronóstico de inflación de Colombia sube al siete coma uno por ciento para 2026",
+      "category": "Inflación y tasas",
+      "region": "Colombia",
+      "text": "Un reporte publicado el domingo señala que el equipo técnico del Banco de la República elevó a siete coma uno por ciento su proyección de inflación de dos mil veintiséis, desde seis coma nueve por ciento. Se trata de una proyección, no de la inflación observada ni de una decisión de subir tasas. Una inflación esperada más persistente puede condicionar las decisiones de política monetaria y los costos de crédito para hogares y empresas, incluidos los de la Orinoquía.",
+      "source": "IFM Noticias",
+      "url": "https://ifmnoticias.com/economicas/banco-de-la-republica-eleva-su-proyeccion-de-inflacion-para-2026-y-el-mercado-an/"
+    }
+  ]
+}
