@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-08",
+  "latest": "2026-11-09",
   "editions": [
+    {
+      "id": "2026-11-09",
+      "date": "2026-11-09",
+      "label": "Lunes, 9 de noviembre de 2026",
+      "headline": "Dólar y tasas, tregua comercial y costos reales de la inteligencia artificial",
+      "stories": 8
+    },
     {
       "id": "2026-11-08",
       "date": "2026-11-08",
