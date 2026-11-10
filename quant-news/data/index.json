@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-09",
+  "latest": "2026-11-10",
   "editions": [
+    {
+      "id": "2026-11-10",
+      "date": "2026-11-10",
+      "label": "Martes, 10 de noviembre de 2026",
+      "headline": "Wall Street, tregua comercial y precios en Colombia",
+      "stories": 8
+    },
     {
       "id": "2026-11-09",
       "date": "2026-11-09",
