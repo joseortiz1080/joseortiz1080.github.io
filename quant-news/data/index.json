@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-10",
+  "latest": "2026-11-11",
   "editions": [
+    {
+      "id": "2026-11-11",
+      "date": "2026-11-11",
+      "label": "Miércoles, 11 de noviembre de 2026",
+      "headline": "Inflación y tasas en Estados Unidos, comercio de China e inversiones en inteligencia artificial",
+      "stories": 8
+    },
     {
       "id": "2026-11-10",
       "date": "2026-11-10",
