@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "label": "Jueves, 12 de noviembre de 2026",
+  "eyebrow": "Edición del jueves",
+  "headline": "Wall Street y la IA, política económica china y resultados de la banca colombiana",
+  "intro": "Buenos días. Hoy es jueves, 12 de noviembre de 2026. Comienza una nueva jornada y el mundo sigue moviéndose. Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología. Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades. Hoy observaremos la recuperación de Wall Street, las nuevas señales de política económica en China y los resultados de la banca colombiana. Esto es QUANT News, tu informe de inteligencia para comenzar el día. Estas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy. Los resultados de CoreWeave contribuyeron a recuperar la confianza en acciones tecnológicas estadounidenses, mientras las bolsas europeas registraron máximos. En China, el banco central anunció apoyo económico y el comercio exterior mantuvo un superávit elevado. El efecto embudo hacia Colombia pasa por las condiciones de financiación, el tipo de cambio y la demanda internacional, mientras los resultados de Grupo Aval muestran la importancia de observar la evolución del crédito. Para Meta y la Orinoquía no se confirmó hoy un impacto regional cuantificado. Tres señales para vigilar durante la jornada: primera, la evolución del Nasdaq y de los rendimientos de los bonos estadounidenses; segunda, los anuncios concretos del banco central chino y los precios de materias primas; y tercera, la tasa de cambio y las condiciones de crédito en Colombia. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Wall Street sube impulsado por acciones tecnológicas",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/",
+      "text": "Wall Street terminó el miércoles con avances de uno coma sesenta por ciento en el Nasdaq, uno coma treinta y uno por ciento en el S y P quinientos y cero coma cuarenta y nueve por ciento en el Dow Jones. Las acciones tecnológicas lideraron la sesión después de resultados empresariales que mejoraron las expectativas sobre infraestructura de inteligencia artificial. El avance es un hecho observado, pero no garantiza que continúe. Para Colombia, el posible canal de transmisión está en el apetito internacional por riesgo y los flujos de inversión."
+    },
+    {
+      "id": 2,
+      "title": "CoreWeave proyecta rentabilidad ajustada para 2028 y recupera confianza del mercado",
+      "category": "Inteligencia artificial",
+      "region": "Estados Unidos",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-results-ease-bubble-fears-2026-11-11/",
+      "text": "CoreWeave presentó una perspectiva de rentabilidad ajustada para el primer semestre de dos mil veintiocho y señaló que los flujos de sus contratos respaldarían sus compromisos de deuda. La reacción bursátil fue positiva y se extendió a otras compañías vinculadas con infraestructura de inteligencia artificial. Se trata de una proyección de la empresa, no de una rentabilidad ya alcanzada. El caso recuerda que el crecimiento tecnológico depende tanto de la demanda como del costo del capital."
+    },
+    {
+      "id": 3,
+      "title": "Las bolsas europeas cierran en máximo histórico con impulso industrial",
+      "category": "Mercados",
+      "region": "Europa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/europes-stoxx-600-near-record-high-siemens-energy-coreweave-outlooks-lift-2026-11-11/",
+      "text": "El índice europeo STOXX seiscientos cerró el miércoles en un récord de seiscientos sesenta y tres coma cero cinco puntos, con un avance de cero coma setenta y dos por ciento. Siemens Energy subió después de mejorar sus perspectivas y anunciar un mayor dividendo, mientras las empresas tecnológicas también avanzaron. El movimiento refleja resultados y expectativas empresariales, no una mejora garantizada de toda la economía europea. Las valoraciones y los costos energéticos seguirán siendo determinantes para las inversiones."
+    },
+    {
+      "id": 4,
+      "title": "El banco central chino anuncia mayor apoyo a la economía",
+      "category": "Macroeconomía",
+      "region": "China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-central-bank-vows-step-up-policy-support-economy-2026-11-11/",
+      "text": "El Banco Popular de China anunció que reforzará los ajustes de política económica para apoyar la demanda interna y enfrentar presiones nacionales e internacionales. El informe monetario del tercer trimestre no precisó nuevas medidas ni fechas de implementación. Por tanto, hablamos de una orientación de política, no de un estímulo ya ejecutado. Sus decisiones futuras pueden influir sobre la demanda de materias primas y el comercio con economías latinoamericanas."
+    },
+    {
+      "id": 5,
+      "title": "China supera el billón de dólares de superávit comercial acumulado",
+      "category": "Comercio global",
+      "region": "China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/",
+      "text": "China acumuló un superávit comercial de uno coma cero cuatro billones de dólares entre enero y octubre, mientras sus exportaciones de octubre crecieron treinta y cinco coma dos por ciento interanual. La demanda de productos vinculados con infraestructura de inteligencia artificial contribuyó al dinamismo exportador. El dato también revela la importancia de los mercados externos para una economía con debilidad de consumo interno. Para Colombia, los posibles canales incluyen competencia industrial, importaciones y precios internacionales, sin asumir efectos automáticos."
+    },
+    {
+      "id": 6,
+      "title": "El dólar cierra en Colombia alrededor de tres mil doscientos noventa y cinco pesos",
+      "category": "Colombia",
+      "region": "Colombia",
+      "source": "Semana",
+      "url": "https://www.semana.com/economia/macroeconomia/articulo/dolar-cerro-a-la-baja-y-finalizo-la-jornada-del-miercoles-11-de-noviembre-mas-barato/202606/",
+      "text": "El dólar cerró el miércoles once de noviembre en Colombia cerca de tres mil doscientos noventa y cinco pesos, según el reporte de Semana, por debajo de la tasa representativa de esa jornada. La cotización tuvo oscilaciones intradía, por lo que un cierre no resume toda la volatilidad. El tipo de cambio incide en importaciones, obligaciones en dólares y competitividad exportadora. En Meta y la Orinoquía, cualquier efecto específico requiere datos de costos y operaciones regionales."
+    },
+    {
+      "id": 7,
+      "title": "Grupo Aval reporta utilidad trimestral de trescientos sesenta y ocho mil millones de pesos",
+      "category": "Finanzas",
+      "region": "Colombia",
+      "source": "La República",
+      "url": "https://www.larepublica.co/finanzas/grupo-aval-reporto-utilidad-de-368-000-millones-para-el-tercer-trimestre-4522395",
+      "text": "Grupo Aval informó una utilidad de trescientos sesenta y ocho mil millones de pesos en el tercer trimestre y una cartera bruta de doscientos siete coma uno billones de pesos. El ingreso neto por intereses fue de dos coma cuatro billones, quince por ciento menos que un año antes. Estos resultados permiten observar simultáneamente expansión crediticia y presión sobre ingresos financieros. Su relevancia para hogares y empresas está en la evolución de la oferta, los costos y la calidad del crédito."
+    },
+    {
+      "id": 8,
+      "title": "La Reserva Federal enfrenta mayores expectativas de tasas tras la inflación",
+      "category": "Macroeconomía",
+      "region": "Estados Unidos",
+      "source": "Reuters",
+      "url": "https://au.marketscreener.com/news/wall-st-falls-as-hot-inflation-data-fuels-rate-hike-jitters-ce785edadf8ef021",
+      "text": "Tras el dato de inflación de octubre, superior a las previsiones, los mercados elevaron sus expectativas de un aumento de tasas de la Reserva Federal en diciembre. Reuters recogió declaraciones del gobernador Christopher Waller favorables a considerar un incremento, pero todavía no existe una decisión formal para esa reunión. Tasas estadounidenses más altas podrían afectar el costo del financiamiento global y la demanda por dólares. Para Colombia, ese es un canal potencial que debe contrastarse con la evolución efectiva de bonos y tipo de cambio."
+    }
+  ]
+}
