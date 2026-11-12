@@ -1,37 +1,39 @@
 Buenos días.
-Hoy es miércoles, 11 de noviembre de 2026.
+Hoy es jueves, 12 de noviembre de 2026.
 Comienza una nueva jornada y el mundo sigue moviéndose.
 Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.
 Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.
-Esta mañana revisaremos la inflación de Estados Unidos y sus efectos sobre las expectativas de tasas, la fortaleza exportadora de China y las nuevas inversiones en inteligencia artificial.
+Hoy observaremos la recuperación de Wall Street, las nuevas señales de política económica en China y los resultados de la banca colombiana.
 Esto es QUANT News, tu informe de inteligencia para comenzar el día.
 Estas son las noticias que vale la pena conocer.
 
-Noticia 1 de 8. La inflación de Estados Unidos supera las previsiones en octubre.
-El índice de precios al consumidor de Estados Unidos aumentó cero coma cuatro por ciento en octubre, frente al cero coma tres por ciento esperado por economistas consultados por Reuters. La inflación subyacente avanzó cero coma tres por ciento. El dato eleva la atención sobre futuras decisiones de la Reserva Federal: tasas más altas podrían encarecer financiación y fortalecer el dólar, pero la decisión aún no se ha tomado.
+Noticia 1 de 8. Wall Street sube impulsado por acciones tecnológicas.
+Wall Street terminó el miércoles con avances de uno coma sesenta por ciento en el Nasdaq, uno coma treinta y uno por ciento en el S y P quinientos y cero coma cuarenta y nueve por ciento en el Dow Jones. Las acciones tecnológicas lideraron la sesión después de resultados empresariales que mejoraron las expectativas sobre infraestructura de inteligencia artificial. El avance es un hecho observado, pero no garantiza que continúe. Para Colombia, el posible canal de transmisión está en el apetito internacional por riesgo y los flujos de inversión.
 
-Noticia 2 de 8. La Reserva Federal contempla acelerar las subidas de tasas.
-Funcionarios de la Reserva Federal abrieron la puerta a un ritmo más rápido de aumentos de tasas tras el dato de inflación. Son declaraciones y escenarios de política monetaria, no una decisión formal de incrementar la tasa de referencia. Los rendimientos de bonos y el dólar son canales por los cuales estas expectativas pueden transmitirse a economías emergentes como Colombia.
+Noticia 2 de 8. CoreWeave proyecta rentabilidad ajustada para 2028 y recupera confianza del mercado.
+CoreWeave presentó una perspectiva de rentabilidad ajustada para el primer semestre de dos mil veintiocho y señaló que los flujos de sus contratos respaldarían sus compromisos de deuda. La reacción bursátil fue positiva y se extendió a otras compañías vinculadas con infraestructura de inteligencia artificial. Se trata de una proyección de la empresa, no de una rentabilidad ya alcanzada. El caso recuerda que el crecimiento tecnológico depende tanto de la demanda como del costo del capital.
 
-Noticia 3 de 8. Wall Street cierra a la baja ante la inflación y las expectativas de tasas.
-Las bolsas estadounidenses terminaron la sesión del martes en terreno negativo mientras los inversionistas procesaban una inflación superior a la prevista y comentarios de autoridades monetarias. El retroceso bursátil es un hecho observado; atribuirlo a una única causa sería excesivo. Para portafolios colombianos, conviene observar la volatilidad de acciones, bonos y divisas sin asumir que replicarán el movimiento.
+Noticia 3 de 8. Las bolsas europeas cierran en máximo histórico con impulso industrial.
+El índice europeo STOXX seiscientos cerró el miércoles en un récord de seiscientos sesenta y tres coma cero cinco puntos, con un avance de cero coma setenta y dos por ciento. Siemens Energy subió después de mejorar sus perspectivas y anunciar un mayor dividendo, mientras las empresas tecnológicas también avanzaron. El movimiento refleja resultados y expectativas empresariales, no una mejora garantizada de toda la economía europea. Las valoraciones y los costos energéticos seguirán siendo determinantes para las inversiones.
 
-Noticia 4 de 8. El superávit comercial de China supera un billón de dólares.
-China acumuló un superávit comercial de un billón cuarenta mil millones de dólares entre enero y octubre, mientras sus exportaciones crecieron treinta y cinco coma dos por ciento interanual en octubre. La demanda mundial de infraestructura para inteligencia artificial contribuyó a las ventas de tecnología, aunque el consumo interno sigue débil. Una mayor dependencia de exportaciones podría aumentar las fricciones comerciales con Estados Unidos y Europa.
+Noticia 4 de 8. El banco central chino anuncia mayor apoyo a la economía.
+El Banco Popular de China anunció que reforzará los ajustes de política económica para apoyar la demanda interna y enfrentar presiones nacionales e internacionales. El informe monetario del tercer trimestre no precisó nuevas medidas ni fechas de implementación. Por tanto, hablamos de una orientación de política, no de un estímulo ya ejecutado. Sus decisiones futuras pueden influir sobre la demanda de materias primas y el comercio con economías latinoamericanas.
 
-Noticia 5 de 8. TSMC aprueba inversiones de hasta mil millones de dólares en empresas de inteligencia artificial.
-El consejo de TSMC aprobó inversiones de hasta quinientos millones de dólares en Anthropic y otros quinientos millones en OpenAI. La decisión muestra que el fabricante de semiconductores busca participar también como inversionista en empresas que demandan su infraestructura. Los montos aprobados son máximos y no deben confundirse con desembolsos ya ejecutados ni con rentabilidades aseguradas.
+Noticia 5 de 8. China supera el billón de dólares de superávit comercial acumulado.
+China acumuló un superávit comercial de uno coma cero cuatro billones de dólares entre enero y octubre, mientras sus exportaciones de octubre crecieron treinta y cinco coma dos por ciento interanual. La demanda de productos vinculados con infraestructura de inteligencia artificial contribuyó al dinamismo exportador. El dato también revela la importancia de los mercados externos para una economía con debilidad de consumo interno. Para Colombia, los posibles canales incluyen competencia industrial, importaciones y precios internacionales, sin asumir efectos automáticos.
 
-Noticia 6 de 8. La bolsa británica retrocede mientras el Banco de Inglaterra mantiene un tono restrictivo.
-El índice FTSE cien de Londres cayó cero coma dos por ciento el martes, con presión sobre compañías mineras por el descenso del oro. Una autoridad del Banco de Inglaterra no descartó un aumento de tasas en diciembre. El encarecimiento potencial del crédito y las variaciones en materias primas son canales relevantes para empresas europeas y sus socios comerciales.
+Noticia 6 de 8. El dólar cierra en Colombia alrededor de tres mil doscientos noventa y cinco pesos.
+El dólar cerró el miércoles once de noviembre en Colombia cerca de tres mil doscientos noventa y cinco pesos, según el reporte de Semana, por debajo de la tasa representativa de esa jornada. La cotización tuvo oscilaciones intradía, por lo que un cierre no resume toda la volatilidad. El tipo de cambio incide en importaciones, obligaciones en dólares y competitividad exportadora. En Meta y la Orinoquía, cualquier efecto específico requiere datos de costos y operaciones regionales.
 
-Noticia 7 de 8. Google presenta nuevas variantes de sus chips para inteligencia artificial.
-Google presentó dos versiones de sus procesadores TPU: una orientada a clientes con exigencias de seguridad y otra a aplicaciones que requieren grandes volúmenes de memoria y cómputo. La empresa busca ampliar la oferta de infraestructura para inteligencia artificial en la nube y competir con otros proveedores de chips. Para las empresas usuarias, más opciones podrían influir en costos y capacidad, aunque los beneficios dependerán de precios y desempeño real.
+Noticia 7 de 8. Grupo Aval reporta utilidad trimestral de trescientos sesenta y ocho mil millones de pesos.
+Grupo Aval informó una utilidad de trescientos sesenta y ocho mil millones de pesos en el tercer trimestre y una cartera bruta de doscientos siete coma uno billones de pesos. El ingreso neto por intereses fue de dos coma cuatro billones, quince por ciento menos que un año antes. Estos resultados permiten observar simultáneamente expansión crediticia y presión sobre ingresos financieros. Su relevancia para hogares y empresas está en la evolución de la oferta, los costos y la calidad del crédito.
 
-Noticia 8 de 8. La tasa de cambio de Colombia alcanza tres mil doscientos noventa y siete pesos con siete centavos.
-La tasa representativa del mercado para este miércoles se ubica en tres mil doscientos noventa y siete pesos con siete centavos por dólar, según la publicación de Colombia.com. Es una referencia oficial de cambio y no la cotización de todas las operaciones del día. Para importadores, exportadores y hogares con obligaciones en dólares en Colombia y la Orinoquía, el nivel influye en presupuestos y costos, pero no demuestra por sí solo una causa específica.
+Noticia 8 de 8. La Reserva Federal enfrenta mayores expectativas de tasas tras la inflación.
+Tras el dato de inflación de octubre, superior a las previsiones, los mercados elevaron sus expectativas de un aumento de tasas de la Reserva Federal en diciembre. Reuters recogió declaraciones del gobernador Christopher Waller favorables a considerar un incremento, pero todavía no existe una decisión formal para esa reunión. Tasas estadounidenses más altas podrían afectar el costo del financiamiento global y la demanda por dólares. Para Colombia, ese es un canal potencial que debe contrastarse con la evolución efectiva de bonos y tipo de cambio.
 
 El hilo conductor de hoy.
-La inflación estadounidense y la discusión sobre tasas de interés muestran cómo una señal macroeconómica puede transmitirse a bonos, acciones y al valor internacional del dólar. Al mismo tiempo, el superávit exportador de China y las inversiones de TSMC muestran el peso de la infraestructura de inteligencia artificial en la economía mundial. Para Colombia, el efecto embudo pasa por condiciones de financiación externa, comercio y tipo de cambio; en Meta y la Orinoquía, cualquier consecuencia concreta exige datos regionales que hoy no se han verificado.
-Tres señales para vigilar durante la jornada: primera, los rendimientos de los bonos del Tesoro y las expectativas sobre la Reserva Federal; segunda, la evolución del Nasdaq y las empresas de semiconductores; tercera, la tasa de cambio del peso colombiano y los anuncios oficiales de política monetaria.
-Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.
+Los resultados de CoreWeave contribuyeron a recuperar la confianza en acciones tecnológicas estadounidenses, mientras las bolsas europeas registraron máximos. En China, el banco central anunció apoyo económico y el comercio exterior mantuvo un superávit elevado. El efecto embudo hacia Colombia pasa por las condiciones de financiación, el tipo de cambio y la demanda internacional, mientras los resultados de Grupo Aval muestran la importancia de observar la evolución del crédito. Para Meta y la Orinoquía no se confirmó hoy un impacto regional cuantificado.
+Tres señales para vigilar durante la jornada: primera, la evolución del Nasdaq y de los rendimientos de los bonos estadounidenses; segunda, los anuncios concretos del banco central chino y los precios de materias primas; y tercera, la tasa de cambio y las condiciones de crédito en Colombia.
+Hasta aquí QUANT News.
+Información para comprender, analizar y anticipar.
+Que tengas una excelente jornada.
