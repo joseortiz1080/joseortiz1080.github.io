@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "label": "Viernes, 13 de noviembre de 2026",
+  "eyebrow": "Edición del viernes",
+  "headline": "Wall Street, petróleo y riesgos tecnológicos: impacto sobre Colombia",
+  "intro": "Buenos días. Hoy es viernes, 13 de noviembre de 2026. Comienza una nueva jornada y el mundo sigue moviéndose. Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología. Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades. Esta mañana seguiremos la volatilidad de Wall Street, los riesgos sobre el suministro petrolero y los nuevos resultados de Ecopetrol en Colombia. Esto es QUANT News, tu informe de inteligencia para comenzar el día. Estas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy. La salida del máximo ejecutivo de Nvidia añade incertidumbre al mercado de inteligencia artificial, mientras las tensiones en las rutas petroleras elevan los riesgos sobre energía y transporte. Europa mantiene una trayectoria bursátil distinta, y Ecopetrol presenta mejores resultados trimestrales en Colombia. El efecto embudo pasa de las valoraciones globales y los costos de energía hacia el dólar, la inversión y las cuentas de empresas colombianas. En Meta y la Orinoquía, región productora de hidrocarburos, no se ha verificado hoy una cifra específica de impacto local. Tres señales para vigilar durante la jornada: primera, el precio del Brent y las noticias verificadas sobre las rutas petroleras; segunda, la apertura del Nasdaq y la cotización de Nvidia; tercera, el dólar frente al peso y las comunicaciones financieras de Ecopetrol. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Nvidia cae tras la salida de Jensen Huang y Wall Street termina a la baja",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-12/",
+      "text": "Wall Street terminó el jueves en negativo: el Dow Jones cedió cero coma treinta y seis por ciento, el S y P quinientos cero coma treinta y cinco y el Nasdaq cero coma treinta y nueve. Nvidia perdió alrededor de cuatro coma tres por ciento después de la salida de su director ejecutivo, Jensen Huang, y el nombramiento temporal de Colette Kress. La incertidumbre de liderazgo afecta la valoración de una empresa clave para los chips de inteligencia artificial; no implica que toda la demanda del sector haya desaparecido."
+    },
+    {
+      "id": 2,
+      "title": "Los ataques contra infraestructura saudí elevan los riesgos para el petróleo",
+      "category": "Energía",
+      "region": "Global",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-pumping-station-saudi-arabias-east-west-oil-2026-11-12/",
+      "text": "Los hutíes afirmaron haber atacado instalaciones petroleras saudíes, incluida una estación de bombeo del oleoducto Este Oeste; la coalición saudí informó que interceptó dos drones. No se confirmó de manera independiente todo el alcance de los ataques reivindicados. La ruta transporta alrededor de cuatro millones de barriles diarios, por lo que nuevas interrupciones podrían elevar los costos energéticos y logísticos; para Colombia, los efectos netos dependerían de exportaciones petroleras y precios internos."
+    },
+    {
+      "id": 3,
+      "title": "Ecopetrol informa aumento del ochenta y seis por ciento en su utilidad trimestral",
+      "category": "Colombia",
+      "region": "Colombia",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/colombia-ecopetrols-net-profit-jumps-86-q3-2026-11-12/",
+      "text": "Ecopetrol reportó una utilidad neta de cuatro coma setenta y seis billones de pesos en el tercer trimestre, ochenta y seis por ciento más que un año antes. Los ingresos aumentaron diecisiete coma cinco por ciento, hasta treinta y cinco coma cero seis billones de pesos, con apoyo de precios del crudo y la adquisición de Brava Energia en Brasil. El resultado es relevante para las finanzas empresariales y los ingresos asociados al sector petrolero colombiano; no demuestra por sí solo un aumento de producción o empleo en Meta."
+    },
+    {
+      "id": 4,
+      "title": "Las acciones europeas alcanzan máximos y moderan sus avances",
+      "category": "Mercados",
+      "region": "Europa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/europes-stoxx-600-hits-record-high-strong-earnings-easing-mideast-tensions-2026-11-12/",
+      "text": "El índice STOXX seiscientos cerró el jueves con una subida de cero coma catorce por ciento, en seiscientos sesenta y cuatro coma cero uno puntos, después de tocar un máximo intradía. Resultados empresariales como los de Adecco y nuevas perspectivas de Siemens respaldaron algunos sectores, mientras persistían preocupaciones por energía e inflación. Para los inversionistas, la divergencia entre Europa y las tecnológicas estadounidenses recuerda que las valoraciones responden a exposiciones sectoriales distintas."
+    },
+    {
+      "id": 5,
+      "title": "Una interrupción de Microsoft 365 afecta comunicaciones empresariales",
+      "category": "Tecnología",
+      "region": "Global",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/",
+      "text": "Microsoft informó problemas de servidores que afectaron Outlook, Teams y Copilot, con interrupciones reportadas por empresas y organismos públicos de varios países. La compañía señaló que no tenía evidencia de actividad maliciosa y que había desplegado medidas de recuperación. El episodio evidencia riesgos operativos de concentrar comunicaciones críticas en una sola plataforma y la importancia de planes de continuidad, también para organizaciones colombianas."
+    },
+    {
+      "id": 6,
+      "title": "China refuerza un mecanismo de financiación para recompras de acciones",
+      "category": "Finanzas",
+      "region": "China",
+      "source": "Reuters Breakingviews",
+      "url": "https://www.reuters.com/commentary/breakingviews/chinas-stock-backstop-risks-market-misfire-2026-11-13/",
+      "text": "Un análisis de Reuters Breakingviews examina la decisión del banco central chino de hacer permanentes líneas de financiación para recompras de acciones y elevar participaciones, con una tasa de redescuento del uno por ciento. El programa dispone de ochocientos mil millones de yuanes, aunque su utilización ha sido parcial. El apoyo podría amortiguar caídas bursátiles, pero el artículo advierte que prestar para sostener cotizaciones no sustituye mejores beneficios empresariales; esa valoración es análisis, no resultado comprobado."
+    },
+    {
+      "id": 7,
+      "title": "Investigadores del BCE utilizan inteligencia artificial para medir el sentimiento inversor",
+      "category": "Investigación",
+      "region": "Europa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/ecb-economists-turn-reddit-ai-read-investors-mood-2026-11-12/",
+      "text": "Dos investigadores del Banco Central Europeo analizaron más de nueve millones de publicaciones en foros financieros con ayuda de inteligencia artificial para construir un indicador de sentimiento minorista. El estudio encuentra asociaciones entre cambios de sentimiento y rendimientos posteriores de corto plazo, especialmente en episodios de tensión. Una asociación estadística no garantiza capacidad predictiva estable; la investigación muestra cómo la tecnología puede complementar, sin reemplazar, indicadores financieros tradicionales."
+    },
+    {
+      "id": 8,
+      "title": "Shenzhen amplía las entregas comerciales con drones",
+      "category": "Innovación",
+      "region": "China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/food-arrives-by-drone-apec-host-shenzhen-china-expands-low-altitude-economy-2026-11-13/",
+      "text": "Shenzhen exhibe servicios de entrega de alimentos con drones dentro del impulso chino a la llamada economía de baja altitud. Las autoridades de aviación registraron tres coma veintinueve millones de drones al cierre de dos mil veinticinco, mientras las horas de vuelo aumentaron cerca de setenta por ciento. La expansión abre oportunidades logísticas, pero exige regulación del espacio aéreo y evaluación de costos; la operación local se suspendió temporalmente por medidas de seguridad de la cumbre APEC."
+    }
+  ]
+}
