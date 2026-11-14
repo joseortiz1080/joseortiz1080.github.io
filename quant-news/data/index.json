@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-13",
+  "latest": "2026-11-14",
   "editions": [
+    {
+      "id": "2026-11-14",
+      "date": "2026-11-14",
+      "label": "Sábado, 14 de noviembre de 2026",
+      "headline": "Inflación estadounidense, petróleo y riesgos tecnológicos entre China y Wall Street",
+      "stories": 8
+    },
     {
       "id": "2026-11-13",
       "date": "2026-11-13",
