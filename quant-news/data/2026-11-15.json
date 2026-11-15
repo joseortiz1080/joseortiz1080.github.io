@@ -1,0 +1,74 @@
+{
+  "id": "2026-11-15",
+  "date": "2026-11-15",
+  "label": "Domingo, 15 de noviembre de 2026",
+  "eyebrow": "Edición del domingo",
+  "headline": "Transporte aéreo, bancos centrales y resiliencia tecnológica global",
+  "intro": "Buenos días.\nHoy es domingo, 15 de noviembre de 2026.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nEsta mañana examinaremos las interrupciones del transporte aéreo estadounidense, las señales de tasas de interés de la Reserva Federal y el Banco de Inglaterra, y los riesgos de continuidad de los servicios digitales.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy.\nLas interrupciones aéreas en Estados Unidos y la falla de Microsoft muestran la vulnerabilidad operativa de infraestructuras esenciales. A la vez, las autoridades monetarias de Estados Unidos y Reino Unido siguen atentas a la inflación, mientras la inversión tecnológica figura entre los factores de crecimiento previstos para el próximo año. Del mundo hacia Colombia, los posibles canales son costo del capital, continuidad digital, comercio y precios de energía. En Meta y la Orinoquía no se verificó un efecto económico regional cuantificado durante esta edición.\nTres señales para vigilar durante la jornada: primero, la normalización de vuelos estadounidenses y las cancelaciones del domingo; segundo, nuevos comunicados de recuperación de Microsoft 365; tercero, los rendimientos de los bonos y las expectativas de tasas antes de la apertura de mercados del lunes.\nHasta aquí QUANT News.\nInformación para comprender, analizar y anticipar.\nQue tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": "2026-11-15-1",
+      "title": "Las cancelaciones aéreas en Estados Unidos continúan tras una falla de comunicaciones",
+      "category": "Infraestructura",
+      "region": "Estados Unidos",
+      "text": "La autoridad aérea estadounidense informó que las interrupciones podrían extenderse hasta el domingo tras una paralización nacional de vuelos el viernes. Reuters reportó más de seis mil cuatrocientas cancelaciones y ocho mil retrasos el sábado, según FlightAware. La investigación apunta a una instalación de equipos de comunicaciones que sobrecargó la red; el efecto observado incluye pérdidas operativas y pasajeros afectados, mientras que el costo económico definitivo aún no está cuantificado.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/thousands-us-flights-canceled-delayed-air-travel-system-recovers-shutdown-2026-11-14/"
+    },
+    {
+      "id": "2026-11-15-2",
+      "title": "La Reserva Federal defiende una subida gradual de las tasas de interés",
+      "category": "Macroeconomía",
+      "region": "Estados Unidos",
+      "text": "Susan Collins, presidenta de la Reserva Federal de Boston, defendió incrementos graduales de las tasas para equilibrar inflación persistente y riesgos para la actividad económica. No anunció una decisión del comité monetario ni una trayectoria obligatoria. La evolución de los rendimientos del Tesoro y del dólar podría transmitirse al financiamiento externo de Colombia, pero ese efecto debe medirse y no darse por hecho.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/feds-collins-says-gradual-rate-hikes-best-manage-economic-risks-2026-11-14/"
+    },
+    {
+      "id": "2026-11-15-3",
+      "title": "El Banco de Inglaterra contempla nuevas alzas ante la presión inflacionaria",
+      "category": "Macroeconomía",
+      "region": "Europa",
+      "text": "El economista jefe del Banco de Inglaterra, Huw Pill, indicó que podrían ser necesarias nuevas alzas de tasas en diciembre y a comienzos de 2027 para devolver la inflación a la meta del dos por ciento. La tasa vigente había aumentado recientemente al cuatro por ciento. Son declaraciones y previsiones, no decisiones futuras aprobadas; un crédito más caro afectaría especialmente a hogares que deban refinanciar sus hipotecas.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist"
+    },
+    {
+      "id": "2026-11-15-4",
+      "title": "La interrupción mundial de Microsoft 365 entra en su segundo día",
+      "category": "Tecnología",
+      "region": "Global",
+      "text": "Microsoft reportó avances en la recuperación de Outlook, Teams, Copilot y otros servicios después de una interrupción internacional que continuó el viernes. Hubo afectaciones en empresas y entidades públicas de varios países, aunque no se había establecido una causa definitiva. El incidente evidencia el riesgo de dependencia de infraestructura compartida y refuerza la necesidad de planes de continuidad para organizaciones colombianas.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/e2330e733db280805dbf7e3eb29ee0e1"
+    },
+    {
+      "id": "2026-11-15-5",
+      "title": "Goldman Sachs proyecta crecimiento mundial de 2,8 por ciento en 2027",
+      "category": "Perspectivas",
+      "region": "Global",
+      "text": "Una nota publicada el sábado recoge una previsión de Goldman Sachs de crecimiento mundial del dos coma ocho por ciento para 2027, apoyada en menores precios de energía e inversión en inteligencia artificial. Es un escenario de una entidad financiera, no un crecimiento observado ni un pronóstico oficial multilateral. Para Colombia, los canales a vigilar son demanda externa, materias primas y condiciones de inversión.",
+      "source": "The Times of India, sobre previsiones de Goldman Sachs",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/global-economy-to-grow-2-8-in-2027-as-ai-spending-lower-oil-prices-support-outlook-goldman-sachs/articleshow/135847625.cms"
+    },
+    {
+      "id": "2026-11-15-6",
+      "title": "Novelis acuerda vender dos filiales chinas por 265 millones de dólares",
+      "category": "Industria",
+      "region": "China",
+      "text": "Novelis, productora de aluminio controlada por la india Hindalco, acordó vender dos subsidiarias en China por doscientos sesenta y cinco millones de dólares, según una comunicación bursátil divulgada el domingo. No se informaron en la nota las condiciones completas ni la fecha de cierre. La operación refleja una reorganización de activos industriales, pero no permite concluir por sí sola que se esté retirando toda la inversión extranjera de China.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/hindalcos-novelis-sell-two-china-units-265-million-2026-11-15/"
+    },
+    {
+      "id": "2026-11-15-7",
+      "title": "Washington, Pekín y Moscú exploran una reunión sin acuerdo sobre su agenda",
+      "category": "Geopolítica",
+      "region": "Global y China",
+      "text": "Reuters informó que se estudia una posible reunión entre los dirigentes de Estados Unidos, China y Rusia en Shenzhen, pero todavía no existe un formato ni una agenda acordados. Las diferencias sobre control nuclear y Ucrania hacen incierto cualquier resultado diplomático. El impacto sobre mercados, energía o comercio sería hipotético hasta que existan compromisos verificables.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/new-yalta-trump-putin-push-meeting-that-xi-is-wary-hosting-2026-11-14/"
+    }
+  ]
+}
