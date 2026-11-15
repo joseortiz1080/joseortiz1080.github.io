@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-14",
+  "latest": "2026-11-15",
   "editions": [
+    {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "label": "Domingo, 15 de noviembre de 2026",
+      "headline": "Transporte aéreo, bancos centrales y resiliencia tecnológica global",
+      "stories": 7
+    },
     {
       "id": "2026-11-14",
       "date": "2026-11-14",
