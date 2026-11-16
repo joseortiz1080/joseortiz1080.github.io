@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "label": "Lunes, 16 de noviembre de 2026",
+  "eyebrow": "Edición del lunes",
+  "headline": "Mercados tecnológicos, debilidad asiática y energía global",
+  "intro": "Buenos días.\nHoy es lunes, 16 de noviembre de 2026.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nEsta mañana observaremos la cautela en los mercados tecnológicos, nuevas señales de debilidad económica en China y Japón, y los movimientos de la energía global.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy. La cautela ante los resultados de Nvidia coincide con un dólar más firme y nuevas señales de debilidad económica en China y Japón. Al mismo tiempo, los mercados de petróleo y gas reflejan expectativas de oferta distintas: más crudo disponible, pero riesgos de estrechez en gas europeo. Del mundo hacia Colombia, los canales potenciales son el costo del capital, el dólar y los ingresos energéticos; para Meta y la Orinoquía, la exposición petrolera hace relevante vigilar el crudo, sin atribuir impactos locales todavía no medidos. Tres señales para vigilar durante la jornada: primera, los futuros de Nasdaq y las noticias verificadas de Nvidia; segunda, los rendimientos del Tesoro estadounidense y el dólar internacional; tercera, las cotizaciones de Brent y gas europeo. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": "n1",
+      "title": "Las bolsas asiáticas retroceden antes de los resultados de Nvidia",
+      "category": "Mercados",
+      "region": "Global",
+      "text": "Reuters informó que las bolsas asiáticas comenzaron la semana con caídas y cautela ante los resultados próximos de Nvidia y la salida a bolsa prevista de Anthropic. El movimiento refleja dudas sobre valoraciones y financiación de inteligencia artificial, no una caída ya demostrada de la demanda de tecnología. Para Colombia, el canal potencial es el apetito internacional por activos de riesgo y el costo de financiación.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/"
+    },
+    {
+      "id": "n2",
+      "title": "El oro cae a su menor nivel en más de un año",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "text": "Reuters reportó que el oro cayó a su nivel más bajo en más de un año, en un contexto de dólar firme y expectativas de una Reserva Federal más restrictiva. Tasas esperadas más altas elevan el costo de oportunidad de mantener oro, que no paga intereses. Esto puede afectar carteras globales y las condiciones cambiarias, sin anticipar por sí solo la dirección del peso colombiano.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/gold-edges-higher-investors-await-warsh-remarks-rate-signals-2026-11-16/"
+    },
+    {
+      "id": "n3",
+      "title": "El dólar amplía sus ganancias mientras Japón publica un PIB débil",
+      "category": "Divisas",
+      "region": "Global",
+      "text": "El dólar estadounidense extendió sus ganancias mientras los mercados asimilaban datos débiles de actividad japonesa, informó Reuters. Las diferencias de crecimiento y expectativas de tasas pueden cambiar los flujos internacionales hacia distintas monedas. Para importadores y deudores en dólares de Colombia, el riesgo depende de cómo se traslade esa fortaleza al tipo de cambio local cuando reabra el mercado.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/yen-steady-against-euro-dollar-after-soft-japanese-gdp-data-2026-11-16/"
+    },
+    {
+      "id": "n4",
+      "title": "China muestra debilidad en producción industrial y ventas minoristas",
+      "category": "Macroeconomía",
+      "region": "China",
+      "text": "Las cifras de octubre de China mostraron crecimiento de producción fabril y ventas minoristas inferior a lo esperado, según Reuters. Es una señal de debilidad simultánea en actividad industrial y consumo, pero no determina por sí sola una recesión. Una demanda china más lenta podría afectar precios de materias primas y exportadores de otras economías, incluida Colombia.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/chinas-factory-output-retail-sales-growth-slow-october-2026-11-16/"
+    },
+    {
+      "id": "n5",
+      "title": "Japón registra una contracción inesperada de su economía",
+      "category": "Macroeconomía",
+      "region": "Japón",
+      "text": "La economía japonesa se contrajo inesperadamente en el tercer trimestre, informó Reuters, con consumo privado debilitado por el costo de vida. La noticia importa porque modifica las expectativas sobre crecimiento y política monetaria japonesa, aunque no implica una decisión automática del Banco de Japón. Los cambios en rendimientos y en el yen pueden transmitirse a carteras internacionales.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/japans-economy-unexpectedly-shrinks-july-september-consumption-falters-2026-11-16/"
+    },
+    {
+      "id": "n6",
+      "title": "China acelera la enseñanza de inteligencia artificial en escuelas",
+      "category": "Innovación",
+      "region": "China",
+      "text": "Una investigación de Reuters describe la incorporación de inteligencia artificial a la educación escolar china, con programas públicos y aplicaciones tanto urbanas como rurales. La expansión busca formar capacidades tecnológicas, pero su ejecución es desigual y todavía no existe una medición uniforme de alfabetización en inteligencia artificial. Para Colombia, el caso plantea oportunidades de formación y evaluación pedagógica, no una prueba de mejores resultados educativos.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/inside-chinas-drive-build-an-ai-native-generation-2026-11-16/"
+    },
+    {
+      "id": "n7",
+      "title": "El petróleo retrocede ante perspectivas de mayor oferta",
+      "category": "Energía",
+      "region": "Global",
+      "text": "Reuters informó que el petróleo inició el lunes con descensos ante señales de recuperación de exportaciones de Oriente Medio y expectativas de excedentes de oferta. Los riesgos de seguridad marítima siguen presentes, por lo que la normalización de suministros no está garantizada. Para Colombia, el crudo es un canal de transmisión hacia exportaciones, ingresos fiscales y empresas petroleras, pero sus efectos concretos requieren observar precios sostenidos.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/"
+    },
+    {
+      "id": "n8",
+      "title": "Europa enfrenta una oferta ajustada de gas natural licuado",
+      "category": "Energía",
+      "region": "Europa",
+      "text": "Un análisis de Reuters señala que Europa está atrayendo cargamentos de gas natural licuado, pero la reposición podría ser insuficiente frente a inventarios bajos y riesgos del invierno. La competencia por cargamentos con Asia y los problemas de suministro de Oriente Medio pueden elevar costos energéticos. El impacto sobre industrias y hogares dependerá de precios y temperaturas efectivas, no solo de las proyecciones.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/europe-draws-lng-asia-not-fast-enough-2026-11-16/"
+    }
+  ]
+}
