@@ -1,36 +1,34 @@
 Buenos días.
-Hoy es domingo, 15 de noviembre de 2026.
+Hoy es lunes, 16 de noviembre de 2026.
 Comienza una nueva jornada y el mundo sigue moviéndose.
 Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.
 Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.
-Esta mañana examinaremos las interrupciones del transporte aéreo estadounidense, las señales de tasas de interés de la Reserva Federal y el Banco de Inglaterra, y los riesgos de continuidad de los servicios digitales.
+Esta mañana observaremos la cautela en los mercados tecnológicos, nuevas señales de debilidad económica en China y Japón, y los movimientos de la energía global.
 Esto es QUANT News, tu informe de inteligencia para comenzar el día.
 Estas son las noticias que vale la pena conocer.
 
-Noticia 1 de 7. Las cancelaciones aéreas en Estados Unidos continúan tras una falla de comunicaciones.
-La autoridad aérea estadounidense informó que las interrupciones podrían extenderse hasta el domingo tras una paralización nacional de vuelos el viernes. Reuters reportó más de seis mil cuatrocientas cancelaciones y ocho mil retrasos el sábado, según FlightAware. La investigación apunta a una instalación de equipos de comunicaciones que sobrecargó la red; el efecto observado incluye pérdidas operativas y pasajeros afectados, mientras que el costo económico definitivo aún no está cuantificado.
+Noticia 1 de 8. Las bolsas asiáticas retroceden antes de los resultados de Nvidia.
+Reuters informó que las bolsas asiáticas comenzaron la semana con caídas y cautela ante los resultados próximos de Nvidia y la salida a bolsa prevista de Anthropic. El movimiento refleja dudas sobre valoraciones y financiación de inteligencia artificial, no una caída ya demostrada de la demanda de tecnología. Para Colombia, el canal potencial es el apetito internacional por activos de riesgo y el costo de financiación.
 
-Noticia 2 de 7. La Reserva Federal defiende una subida gradual de las tasas de interés.
-Susan Collins, presidenta de la Reserva Federal de Boston, defendió incrementos graduales de las tasas para equilibrar inflación persistente y riesgos para la actividad económica. No anunció una decisión del comité monetario ni una trayectoria obligatoria. La evolución de los rendimientos del Tesoro y del dólar podría transmitirse al financiamiento externo de Colombia, pero ese efecto debe medirse y no darse por hecho.
+Noticia 2 de 8. El oro cae a su menor nivel en más de un año.
+Reuters reportó que el oro cayó a su nivel más bajo en más de un año, en un contexto de dólar firme y expectativas de una Reserva Federal más restrictiva. Tasas esperadas más altas elevan el costo de oportunidad de mantener oro, que no paga intereses. Esto puede afectar carteras globales y las condiciones cambiarias, sin anticipar por sí solo la dirección del peso colombiano.
 
-Noticia 3 de 7. El Banco de Inglaterra contempla nuevas alzas ante la presión inflacionaria.
-El economista jefe del Banco de Inglaterra, Huw Pill, indicó que podrían ser necesarias nuevas alzas de tasas en diciembre y a comienzos de 2027 para devolver la inflación a la meta del dos por ciento. La tasa vigente había aumentado recientemente al cuatro por ciento. Son declaraciones y previsiones, no decisiones futuras aprobadas; un crédito más caro afectaría especialmente a hogares que deban refinanciar sus hipotecas.
+Noticia 3 de 8. El dólar amplía sus ganancias mientras Japón publica un PIB débil.
+El dólar estadounidense extendió sus ganancias mientras los mercados asimilaban datos débiles de actividad japonesa, informó Reuters. Las diferencias de crecimiento y expectativas de tasas pueden cambiar los flujos internacionales hacia distintas monedas. Para importadores y deudores en dólares de Colombia, el riesgo depende de cómo se traslade esa fortaleza al tipo de cambio local cuando reabra el mercado.
 
-Noticia 4 de 7. La interrupción mundial de Microsoft 365 entra en su segundo día.
-Microsoft reportó avances en la recuperación de Outlook, Teams, Copilot y otros servicios después de una interrupción internacional que continuó el viernes. Hubo afectaciones en empresas y entidades públicas de varios países, aunque no se había establecido una causa definitiva. El incidente evidencia el riesgo de dependencia de infraestructura compartida y refuerza la necesidad de planes de continuidad para organizaciones colombianas.
+Noticia 4 de 8. China muestra debilidad en producción industrial y ventas minoristas.
+Las cifras de octubre de China mostraron crecimiento de producción fabril y ventas minoristas inferior a lo esperado, según Reuters. Es una señal de debilidad simultánea en actividad industrial y consumo, pero no determina por sí sola una recesión. Una demanda china más lenta podría afectar precios de materias primas y exportadores de otras economías, incluida Colombia.
 
-Noticia 5 de 7. Goldman Sachs proyecta crecimiento mundial de 2,8 por ciento en 2027.
-Una nota publicada el sábado recoge una previsión de Goldman Sachs de crecimiento mundial del dos coma ocho por ciento para 2027, apoyada en menores precios de energía e inversión en inteligencia artificial. Es un escenario de una entidad financiera, no un crecimiento observado ni un pronóstico oficial multilateral. Para Colombia, los canales a vigilar son demanda externa, materias primas y condiciones de inversión.
+Noticia 5 de 8. Japón registra una contracción inesperada de su economía.
+La economía japonesa se contrajo inesperadamente en el tercer trimestre, informó Reuters, con consumo privado debilitado por el costo de vida. La noticia importa porque modifica las expectativas sobre crecimiento y política monetaria japonesa, aunque no implica una decisión automática del Banco de Japón. Los cambios en rendimientos y en el yen pueden transmitirse a carteras internacionales.
 
-Noticia 6 de 7. Novelis acuerda vender dos filiales chinas por 265 millones de dólares.
-Novelis, productora de aluminio controlada por la india Hindalco, acordó vender dos subsidiarias en China por doscientos sesenta y cinco millones de dólares, según una comunicación bursátil divulgada el domingo. No se informaron en la nota las condiciones completas ni la fecha de cierre. La operación refleja una reorganización de activos industriales, pero no permite concluir por sí sola que se esté retirando toda la inversión extranjera de China.
+Noticia 6 de 8. China acelera la enseñanza de inteligencia artificial en escuelas.
+Una investigación de Reuters describe la incorporación de inteligencia artificial a la educación escolar china, con programas públicos y aplicaciones tanto urbanas como rurales. La expansión busca formar capacidades tecnológicas, pero su ejecución es desigual y todavía no existe una medición uniforme de alfabetización en inteligencia artificial. Para Colombia, el caso plantea oportunidades de formación y evaluación pedagógica, no una prueba de mejores resultados educativos.
 
-Noticia 7 de 7. Washington, Pekín y Moscú exploran una reunión sin acuerdo sobre su agenda.
-Reuters informó que se estudia una posible reunión entre los dirigentes de Estados Unidos, China y Rusia en Shenzhen, pero todavía no existe un formato ni una agenda acordados. Las diferencias sobre control nuclear y Ucrania hacen incierto cualquier resultado diplomático. El impacto sobre mercados, energía o comercio sería hipotético hasta que existan compromisos verificables.
+Noticia 7 de 8. El petróleo retrocede ante perspectivas de mayor oferta.
+Reuters informó que el petróleo inició el lunes con descensos ante señales de recuperación de exportaciones de Oriente Medio y expectativas de excedentes de oferta. Los riesgos de seguridad marítima siguen presentes, por lo que la normalización de suministros no está garantizada. Para Colombia, el crudo es un canal de transmisión hacia exportaciones, ingresos fiscales y empresas petroleras, pero sus efectos concretos requieren observar precios sostenidos.
 
-El hilo conductor de hoy.
-Las interrupciones aéreas en Estados Unidos y la falla de Microsoft muestran la vulnerabilidad operativa de infraestructuras esenciales. A la vez, las autoridades monetarias de Estados Unidos y Reino Unido siguen atentas a la inflación, mientras la inversión tecnológica figura entre los factores de crecimiento previstos para el próximo año. Del mundo hacia Colombia, los posibles canales son costo del capital, continuidad digital, comercio y precios de energía. En Meta y la Orinoquía no se verificó un efecto económico regional cuantificado durante esta edición.
-Tres señales para vigilar durante la jornada: primero, la normalización de vuelos estadounidenses y las cancelaciones del domingo; segundo, nuevos comunicados de recuperación de Microsoft 365; tercero, los rendimientos de los bonos y las expectativas de tasas antes de la apertura de mercados del lunes.
-Hasta aquí QUANT News.
-Información para comprender, analizar y anticipar.
-Que tengas una excelente jornada.
+Noticia 8 de 8. Europa enfrenta una oferta ajustada de gas natural licuado.
+Un análisis de Reuters señala que Europa está atrayendo cargamentos de gas natural licuado, pero la reposición podría ser insuficiente frente a inventarios bajos y riesgos del invierno. La competencia por cargamentos con Asia y los problemas de suministro de Oriente Medio pueden elevar costos energéticos. El impacto sobre industrias y hogares dependerá de precios y temperaturas efectivas, no solo de las proyecciones.
+
+El hilo conductor de hoy. La cautela ante los resultados de Nvidia coincide con un dólar más firme y nuevas señales de debilidad económica en China y Japón. Al mismo tiempo, los mercados de petróleo y gas reflejan expectativas de oferta distintas: más crudo disponible, pero riesgos de estrechez en gas europeo. Del mundo hacia Colombia, los canales potenciales son el costo del capital, el dólar y los ingresos energéticos; para Meta y la Orinoquía, la exposición petrolera hace relevante vigilar el crudo, sin atribuir impactos locales todavía no medidos. Tres señales para vigilar durante la jornada: primera, los futuros de Nasdaq y las noticias verificadas de Nvidia; segunda, los rendimientos del Tesoro estadounidense y el dólar internacional; tercera, las cotizaciones de Brent y gas europeo. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.
