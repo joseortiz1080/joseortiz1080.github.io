@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "label": "Martes, 17 de noviembre de 2026",
+  "eyebrow": "Edición del martes",
+  "headline": "Wall Street, controles de chips, estabilidad financiera y petróleo",
+  "intro": "Buenos días.\nHoy es martes, 17 de noviembre de 2026.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nEsta mañana veremos la caída de Wall Street antes de los resultados de Nvidia, nuevas restricciones al acceso chino a chips avanzados y las señales del mercado petrolero.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy.\nLa caída de las acciones tecnológicas estadounidenses coincide con nuevas restricciones al acceso chino a chips avanzados. Las advertencias de la Reserva Federal y el Banco Central Europeo muestran que el debate sobre inteligencia artificial ya incluye financiación y estabilidad del sistema, además de innovación. En Colombia, los canales posibles pasan por el dólar, el costo del capital y el petróleo. Para Meta y la Orinoquía, el precio del crudo es una señal relevante, pero no se verificó un efecto regional nuevo cuantificado.\nTres señales para vigilar hoy: primera, los resultados de Nvidia tras el cierre de Wall Street; segunda, la evolución de los rendimientos de los bonos estadounidenses y el dólar; tercera, el Brent y las novedades verificadas sobre oferta y transporte de petróleo.\nHasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": "2026-11-17-1",
+      "title": "Wall Street cae con fuerza antes de los resultados de Nvidia",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "text": "Wall Street cerró el lunes con una caída de 1,9 por ciento en el S y P quinientos y de 2,5 por ciento en el Nasdaq; Nvidia retrocedió 4,1 por ciento. El descenso observado refleja presión sobre acciones tecnológicas, pero no demuestra por sí mismo que haya desaparecido la demanda de inteligencia artificial. Los resultados de Nvidia previstos para hoy permitirán contrastar las expectativas de inversión con cifras empresariales.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7"
+    },
+    {
+      "id": "2026-11-17-2",
+      "title": "Estados Unidos restringe el acceso indirecto de China a chips avanzados",
+      "category": "Tecnología",
+      "region": "Estados Unidos y China",
+      "text": "Washington impuso requisitos adicionales de identificación de usuarios y licencias para centros de datos y envíos de chips avanzados a varios países asiáticos y Brasil. La medida busca impedir que compañías chinas accedan a capacidad de cómputo restringida mediante terceros países. Podría elevar costos y alterar inversiones en centros de datos; todavía no hay una medición definitiva de ese impacto.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/60f868d3bb430b85a8657b27d421096e"
+    },
+    {
+      "id": "2026-11-17-3",
+      "title": "La Reserva Federal advierte sobre riesgos financieros asociados con la inteligencia artificial",
+      "category": "Finanzas e IA",
+      "region": "Estados Unidos",
+      "text": "El gobernador de la Reserva Federal Michael Barr alertó sobre riesgos de ciberseguridad, financiación compleja y comportamientos similares entre sistemas automáticos de negociación. La advertencia identifica vulnerabilidades posibles, no una crisis bancaria ya ocurrida. Para entidades financieras y empresas colombianas, refuerza la importancia de controles sobre agentes de inteligencia artificial y continuidad operativa.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/"
+    },
+    {
+      "id": "2026-11-17-4",
+      "title": "El Banco Central Europeo alerta por la combinación de deuda e inteligencia artificial",
+      "category": "Estabilidad financiera",
+      "region": "Europa",
+      "text": "El vicepresidente del Banco Central Europeo Boris Vujcic señaló riesgos relacionados con valoraciones tecnológicas, deuda soberana, financiación opaca y ciberseguridad. La inversión en inteligencia artificial demanda grandes cantidades de capital y puede competir con otras necesidades de financiación. Esto plantea riesgos de encarecimiento del crédito, aunque no significa que esos efectos ya se hayan materializado.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/ecb-vp-says-ai-debt-have-become-prominent-stability-risks-2026-11-16/"
+    },
+    {
+      "id": "2026-11-17-5",
+      "title": "Las acciones europeas retroceden y termina una racha de cinco sesiones al alza",
+      "category": "Mercados",
+      "region": "Europa",
+      "text": "El índice europeo STOXX seiscientos perdió 0,28 por ciento el lunes y cerró en 662,31 puntos, interrumpiendo cinco sesiones consecutivas de ganancias. Las compañías tecnológicas y mineras estuvieron bajo presión, mientras el sector salud avanzó. La diferencia entre sectores sugiere una reasignación de riesgo, sin probar una contracción general de la economía europea.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/europe/european-shares-hover-near-record-highs-tech-stocks-lag-2026-11-16/"
+    },
+    {
+      "id": "2026-11-17-6",
+      "title": "El petróleo oscila entre expectativas de excedentes y riesgos de transporte",
+      "category": "Energía",
+      "region": "Global y Colombia",
+      "text": "Reuters informó que el Brent rondaba los 92 dólares por barril el martes, mientras las expectativas de mayor oferta compensaban preocupaciones por ataques a buques en Oriente Medio. La Agencia Internacional de Energía prevé un retorno a excedentes de suministro durante el cuarto trimestre. Para Colombia y las regiones petroleras como Meta, precios sostenidamente menores podrían reducir ingresos del sector, pero no hay un impacto regional nuevo cuantificado.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-slips-supply-surplus-outlook-despite-gulf-tensions-2026-11-17/"
+    },
+    {
+      "id": "2026-11-17-7",
+      "title": "China cuestiona las restricciones europeas a equipos para fabricar semiconductores",
+      "category": "Comercio y tecnología",
+      "region": "China y Europa",
+      "text": "Un representante diplomático chino advirtió que los controles a exportaciones de equipos avanzados para fabricar chips deterioran la confianza comercial con Europa. El debate incluye maquinaria de ASML y condiciones de acceso al mercado tecnológico. Una mayor fricción podría afectar cadenas de suministro e inversión, aunque las declaraciones no constituyen nuevas sanciones aprobadas.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinese-envoy-says-chip-equipment-export-curbs-threaten-eu-china-trade-thaw-2026-11-17/"
+    },
+    {
+      "id": "2026-11-17-8",
+      "title": "El mercado laboral británico muestra señales mixtas",
+      "category": "Macroeconomía",
+      "region": "Reino Unido",
+      "text": "Los datos laborales británicos mostraron moderación de salarios habituales y reducción de vacantes, mientras la tasa de desempleo se situó en 4,6 por ciento. La combinación de menor contratación y presiones salariales más moderadas importa para las próximas decisiones del Banco de Inglaterra. No implica por sí sola que el banco central vaya a cambiar las tasas en una fecha determinada.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates"
+    }
+  ]
+}
