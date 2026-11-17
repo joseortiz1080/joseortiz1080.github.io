@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-16",
+  "latest": "2026-11-17",
   "editions": [
+    {
+      "id": "2026-11-17",
+      "date": "2026-11-17",
+      "label": "Martes, 17 de noviembre de 2026",
+      "headline": "Wall Street, controles de chips, estabilidad financiera y petróleo",
+      "stories": 8
+    },
     {
       "id": "2026-11-16",
       "date": "2026-11-16",
