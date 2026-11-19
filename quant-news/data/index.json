@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-17",
+  "latest": "2026-11-19",
   "editions": [
+    {
+      "id": "2026-11-19",
+      "date": "2026-11-19",
+      "label": "Jueves, 19 de noviembre de 2026",
+      "headline": "Anthropic, Nvidia y Reserva Federal: la financiación de la inteligencia artificial bajo examen",
+      "stories": 8
+    },
     {
       "id": "2026-11-17",
       "date": "2026-11-17",
