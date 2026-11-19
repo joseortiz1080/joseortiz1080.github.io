@@ -1,37 +1,37 @@
 Buenos días.
-Hoy es martes, 17 de noviembre de 2026.
+Hoy es jueves, 19 de noviembre de 2026.
 Comienza una nueva jornada y el mundo sigue moviéndose.
 Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.
 Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.
-Esta mañana veremos la caída de Wall Street antes de los resultados de Nvidia, nuevas restricciones al acceso chino a chips avanzados y las señales del mercado petrolero.
+Hoy observaremos el histórico debut bursátil previsto de Anthropic, la reacción de Nvidia pese a sus resultados y las señales de cautela de la Reserva Federal.
 Esto es QUANT News, tu informe de inteligencia para comenzar el día.
 Estas son las noticias que vale la pena conocer.
 
-Noticia 1 de 8. Wall Street cae con fuerza antes de los resultados de Nvidia.
-Wall Street cerró el lunes con una caída de 1,9 por ciento en el S y P quinientos y de 2,5 por ciento en el Nasdaq; Nvidia retrocedió 4,1 por ciento. El descenso observado refleja presión sobre acciones tecnológicas, pero no demuestra por sí mismo que haya desaparecido la demanda de inteligencia artificial. Los resultados de Nvidia previstos para hoy permitirán contrastar las expectativas de inversión con cifras empresariales.
+Noticia 1 de 8. Anthropic fija el precio de su salida a bolsa en 83 dólares por acción.
+Anthropic fijó el precio de su oferta pública inicial en 83 dólares por acción, con una valoración anunciada de 1,5 billones de dólares y una captación de 81 mil millones. El debut bursátil previsto para hoy pondrá a prueba el apetito de los inversionistas por compañías de inteligencia artificial que todavía afrontan fuertes compromisos de inversión. Su repercusión sobre otras acciones tecnológicas dependerá de la negociación efectiva, no solamente del precio de colocación.
 
-Noticia 2 de 8. Estados Unidos restringe el acceso indirecto de China a chips avanzados.
-Washington impuso requisitos adicionales de identificación de usuarios y licencias para centros de datos y envíos de chips avanzados a varios países asiáticos y Brasil. La medida busca impedir que compañías chinas accedan a capacidad de cómputo restringida mediante terceros países. Podría elevar costos y alterar inversiones en centros de datos; todavía no hay una medición definitiva de ese impacto.
+Noticia 2 de 8. Nvidia retrocede pese a resultados y previsiones superiores a lo esperado.
+Nvidia cerró con una caída del 2,9 por ciento pese a resultados sólidos y perspectivas de ingresos superiores a lo esperado. La divergencia entre desempeño operativo y precio de la acción muestra que los inversionistas también evalúan valoraciones, gobierno corporativo y riesgos regulatorios. El canal de transmisión hacia los mercados globales pasa por las acciones de semiconductores y las expectativas de inversión en centros de datos.
 
-Noticia 3 de 8. La Reserva Federal advierte sobre riesgos financieros asociados con la inteligencia artificial.
-El gobernador de la Reserva Federal Michael Barr alertó sobre riesgos de ciberseguridad, financiación compleja y comportamientos similares entre sistemas automáticos de negociación. La advertencia identifica vulnerabilidades posibles, no una crisis bancaria ya ocurrida. Para entidades financieras y empresas colombianas, refuerza la importancia de controles sobre agentes de inteligencia artificial y continuidad operativa.
+Noticia 3 de 8. Las actas de la Reserva Federal identifican riesgos financieros vinculados a la IA.
+Las actas de la reunión de octubre de la Reserva Federal recogen inquietudes por valoraciones elevadas, apalancamiento de fondos y financiación compleja de proyectos de inteligencia artificial. El personal técnico consideró resistente al sistema financiero, de modo que se trata de vulnerabilidades identificadas y no de una crisis declarada. Si esas vulnerabilidades se materializaran, podrían afectar la disponibilidad de crédito y el apetito internacional por riesgo.
 
-Noticia 4 de 8. El Banco Central Europeo alerta por la combinación de deuda e inteligencia artificial.
-El vicepresidente del Banco Central Europeo Boris Vujcic señaló riesgos relacionados con valoraciones tecnológicas, deuda soberana, financiación opaca y ciberseguridad. La inversión en inteligencia artificial demanda grandes cantidades de capital y puede competir con otras necesidades de financiación. Esto plantea riesgos de encarecimiento del crédito, aunque no significa que esos efectos ya se hayan materializado.
+Noticia 4 de 8. Waller pide una respuesta más firme de la Reserva Federal ante la inflación.
+El gobernador Christopher Waller planteó que la Reserva Federal debería responder con mayor firmeza a la persistencia de la inflación, incluso contemplando una subida de medio punto porcentual en diciembre. Es la posición de un funcionario, no una decisión del comité. Las expectativas sobre tasas pueden transmitirse a los rendimientos de bonos, el dólar y el costo de financiación de economías como Colombia.
 
-Noticia 5 de 8. Las acciones europeas retroceden y termina una racha de cinco sesiones al alza.
-El índice europeo STOXX seiscientos perdió 0,28 por ciento el lunes y cerró en 662,31 puntos, interrumpiendo cinco sesiones consecutivas de ganancias. Las compañías tecnológicas y mineras estuvieron bajo presión, mientras el sector salud avanzó. La diferencia entre sectores sugiere una reasignación de riesgo, sin probar una contracción general de la economía europea.
+Noticia 5 de 8. Wall Street completa cinco sesiones de pérdidas del S y P quinientos.
+El S y P quinientos retrocedió cero coma dos por ciento el miércoles y completó cinco sesiones consecutivas a la baja; el Dow cayó uno coma uno por ciento, mientras el Nasdaq ganó cero coma cuatro por ciento. La evolución desigual muestra que no todos los segmentos bursátiles reaccionaron del mismo modo. Para los inversionistas colombianos, importa observar si la cautela se extiende a activos emergentes y al tipo de cambio, sin asumir una transmisión automática.
 
-Noticia 6 de 8. El petróleo oscila entre expectativas de excedentes y riesgos de transporte.
-Reuters informó que el Brent rondaba los 92 dólares por barril el martes, mientras las expectativas de mayor oferta compensaban preocupaciones por ataques a buques en Oriente Medio. La Agencia Internacional de Energía prevé un retorno a excedentes de suministro durante el cuarto trimestre. Para Colombia y las regiones petroleras como Meta, precios sostenidamente menores podrían reducir ingresos del sector, pero no hay un impacto regional nuevo cuantificado.
+Noticia 6 de 8. El petróleo enfrenta excedentes previstos y riesgos de transporte en Oriente Medio.
+El petróleo se mantuvo cerca de los niveles de la jornada previa mientras las expectativas de mayor oferta compensaban riesgos para los envíos en Oriente Medio. Los inventarios estadounidenses aumentaron y persistieron incidentes de seguridad marítima. Para Colombia, y especialmente para la actividad petrolera de Meta y la Orinoquía, el canal relevante son los precios sostenidos del crudo y los ingresos del sector; no se ha verificado un impacto local nuevo.
 
-Noticia 7 de 8. China cuestiona las restricciones europeas a equipos para fabricar semiconductores.
-Un representante diplomático chino advirtió que los controles a exportaciones de equipos avanzados para fabricar chips deterioran la confianza comercial con Europa. El debate incluye maquinaria de ASML y condiciones de acceso al mercado tecnológico. Una mayor fricción podría afectar cadenas de suministro e inversión, aunque las declaraciones no constituyen nuevas sanciones aprobadas.
+Noticia 7 de 8. La inflación revela diferencias entre Estados Unidos y Europa.
+Un análisis de Reuters Breakingviews señala que las presiones inflacionarias se distribuyen de manera distinta entre Estados Unidos y Europa, aunque sus tasas generales son elevadas. El análisis considera que los aumentos de precios son más extendidos entre categorías de consumo estadounidenses. Esta diferencia podría llevar a trayectorias monetarias distintas, pero es una interpretación analítica y no una decisión de los bancos centrales.
 
-Noticia 8 de 8. El mercado laboral británico muestra señales mixtas.
-Los datos laborales británicos mostraron moderación de salarios habituales y reducción de vacantes, mientras la tasa de desempleo se situó en 4,6 por ciento. La combinación de menor contratación y presiones salariales más moderadas importa para las próximas decisiones del Banco de Inglaterra. No implica por sí sola que el banco central vaya a cambiar las tasas en una fecha determinada.
+Noticia 8 de 8. Las bolsas asiáticas caen antes del debut de Anthropic.
+Las bolsas asiáticas retrocedieron pese al precio de colocación anunciado para Anthropic, mientras el dólar se fortaleció ante señales de una Reserva Federal restrictiva. La combinación evidencia que el entusiasmo por una operación tecnológica puede coexistir con cautela en el mercado general. El posible efecto sobre Colombia pasaría por el dólar y las condiciones financieras internacionales, todavía sin un impacto local comprobado.
 
 El hilo conductor de hoy.
-La caída de las acciones tecnológicas estadounidenses coincide con nuevas restricciones al acceso chino a chips avanzados. Las advertencias de la Reserva Federal y el Banco Central Europeo muestran que el debate sobre inteligencia artificial ya incluye financiación y estabilidad del sistema, además de innovación. En Colombia, los canales posibles pasan por el dólar, el costo del capital y el petróleo. Para Meta y la Orinoquía, el precio del crudo es una señal relevante, pero no se verificó un efecto regional nuevo cuantificado.
-Tres señales para vigilar hoy: primera, los resultados de Nvidia tras el cierre de Wall Street; segunda, la evolución de los rendimientos de los bonos estadounidenses y el dólar; tercera, el Brent y las novedades verificadas sobre oferta y transporte de petróleo.
+La colocación de Anthropic y los resultados de Nvidia muestran el volumen de capital que moviliza la inteligencia artificial. Al mismo tiempo, las advertencias de la Reserva Federal sobre inflación y riesgos financieros condicionan el precio del dinero y las valoraciones tecnológicas. Desde Estados Unidos y los mercados asiáticos, estos canales pueden alcanzar a Colombia por medio del dólar, el crédito y las carteras de inversión. Para Meta y la Orinoquía, el precio internacional del petróleo constituye otra variable clave, sin que exista un efecto regional nuevo verificado.
+Tres señales observables para vigilar hoy: primera, la apertura y negociación de Anthropic en Nasdaq; segunda, los rendimientos de los bonos del Tesoro y el dólar internacional; tercera, el Brent y los reportes de suministro en Oriente Medio.
 Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.
