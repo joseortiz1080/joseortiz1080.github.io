@@ -1,37 +1,34 @@
 Buenos días.
-Hoy es jueves, 19 de noviembre de 2026.
+Hoy es viernes, 20 de noviembre de 2026.
 Comienza una nueva jornada y el mundo sigue moviéndose.
 Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.
 Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.
-Hoy observaremos el histórico debut bursátil previsto de Anthropic, la reacción de Nvidia pese a sus resultados y las señales de cautela de la Reserva Federal.
+Esta mañana analizaremos la fuerte caída de las bolsas asiáticas, el debut de Anthropic en Wall Street y las advertencias de la Reserva Federal sobre el auge de la inteligencia artificial.
 Esto es QUANT News, tu informe de inteligencia para comenzar el día.
 Estas son las noticias que vale la pena conocer.
 
-Noticia 1 de 8. Anthropic fija el precio de su salida a bolsa en 83 dólares por acción.
-Anthropic fijó el precio de su oferta pública inicial en 83 dólares por acción, con una valoración anunciada de 1,5 billones de dólares y una captación de 81 mil millones. El debut bursátil previsto para hoy pondrá a prueba el apetito de los inversionistas por compañías de inteligencia artificial que todavía afrontan fuertes compromisos de inversión. Su repercusión sobre otras acciones tecnológicas dependerá de la negociación efectiva, no solamente del precio de colocación.
+Noticia 1 de 8. Las bolsas asiáticas se encaminan a su peor semana desde 2020.
+Las acciones de Asia-Pacífico fuera de Japón retrocedían 3,3 por ciento el viernes y acumulaban una pérdida semanal de 8,5 por ciento, según Reuters. La caída observada refleja una revisión del riesgo tecnológico, no una prueba de recesión. La búsqueda de refugio favorecía al dólar y podría aumentar la volatilidad de monedas emergentes como el peso colombiano.
 
-Noticia 2 de 8. Nvidia retrocede pese a resultados y previsiones superiores a lo esperado.
-Nvidia cerró con una caída del 2,9 por ciento pese a resultados sólidos y perspectivas de ingresos superiores a lo esperado. La divergencia entre desempeño operativo y precio de la acción muestra que los inversionistas también evalúan valoraciones, gobierno corporativo y riesgos regulatorios. El canal de transmisión hacia los mercados globales pasa por las acciones de semiconductores y las expectativas de inversión en centros de datos.
+Noticia 2 de 8. Wall Street cae más de dos por ciento pese al debut de Anthropic.
+El jueves, el S y P quinientos perdió 2,02 por ciento, el Nasdaq 2,25 por ciento y el Dow Jones 2,19 por ciento. Fue la sexta caída consecutiva del S y P quinientos, mientras los inversionistas evaluaban valoraciones y financiación de la inteligencia artificial. Una prolongación de esta aversión al riesgo podría influir en los flujos hacia mercados emergentes, sin implicar una reacción idéntica en Colombia.
 
-Noticia 3 de 8. Las actas de la Reserva Federal identifican riesgos financieros vinculados a la IA.
-Las actas de la reunión de octubre de la Reserva Federal recogen inquietudes por valoraciones elevadas, apalancamiento de fondos y financiación compleja de proyectos de inteligencia artificial. El personal técnico consideró resistente al sistema financiero, de modo que se trata de vulnerabilidades identificadas y no de una crisis declarada. Si esas vulnerabilidades se materializaran, podrían afectar la disponibilidad de crédito y el apetito internacional por riesgo.
+Noticia 3 de 8. Anthropic sube diecisiete por ciento en su estreno bursátil.
+Anthropic abrió a 111 dólares con 50 centavos, por encima de su colocación a 83 dólares, y cerró a 97 dólares con 17 centavos por acción, un avance de alrededor de 17 por ciento frente al precio de oferta. La operación confirma interés por una empresa líder en inteligencia artificial, aunque el mercado general cayó ese mismo día. La valoración obliga a contrastar crecimiento de ingresos con compromisos de infraestructura y rentabilidad futura.
 
-Noticia 4 de 8. Waller pide una respuesta más firme de la Reserva Federal ante la inflación.
-El gobernador Christopher Waller planteó que la Reserva Federal debería responder con mayor firmeza a la persistencia de la inflación, incluso contemplando una subida de medio punto porcentual en diciembre. Es la posición de un funcionario, no una decisión del comité. Las expectativas sobre tasas pueden transmitirse a los rendimientos de bonos, el dólar y el costo de financiación de economías como Colombia.
+Noticia 4 de 8. La Reserva Federal advierte que la inversión en IA puede alimentar la inflación.
+Austan Goolsbee, presidente de la Reserva Federal de Chicago, advirtió que la expansión de centros de datos podría tensionar la capacidad productiva y elevar las presiones inflacionarias. Es una evaluación de riesgos, no un nuevo aumento de tasas. Si las expectativas monetarias se endurecen, los canales hacia Colombia serían los rendimientos de los bonos, el dólar y el costo del crédito externo.
 
-Noticia 5 de 8. Wall Street completa cinco sesiones de pérdidas del S y P quinientos.
-El S y P quinientos retrocedió cero coma dos por ciento el miércoles y completó cinco sesiones consecutivas a la baja; el Dow cayó uno coma uno por ciento, mientras el Nasdaq ganó cero coma cuatro por ciento. La evolución desigual muestra que no todos los segmentos bursátiles reaccionaron del mismo modo. Para los inversionistas colombianos, importa observar si la cautela se extiende a activos emergentes y al tipo de cambio, sin asumir una transmisión automática.
+Noticia 5 de 8. Corea del Sur supera un billón de dólares en exportaciones impulsadas por chips.
+Corea del Sur superó el billón de dólares en exportaciones acumuladas del año, con un incremento de 184 por ciento en ventas de semiconductores durante los tres primeros trimestres. La cifra muestra demanda real de componentes para inteligencia artificial, aunque el consumo doméstico sigue débil. El caso evidencia que un auge exportador no necesariamente se transmite de inmediato a todos los hogares.
 
-Noticia 6 de 8. El petróleo enfrenta excedentes previstos y riesgos de transporte en Oriente Medio.
-El petróleo se mantuvo cerca de los niveles de la jornada previa mientras las expectativas de mayor oferta compensaban riesgos para los envíos en Oriente Medio. Los inventarios estadounidenses aumentaron y persistieron incidentes de seguridad marítima. Para Colombia, y especialmente para la actividad petrolera de Meta y la Orinoquía, el canal relevante son los precios sostenidos del crudo y los ingresos del sector; no se ha verificado un impacto local nuevo.
+Noticia 6 de 8. China llega a la revisión de tasas con expectativas de estabilidad.
+Una encuesta de Reuters encontró que 23 de 28 participantes esperaban que China mantuviera sus tasas preferenciales de préstamos en tres y tres coma cinco por ciento. Es una previsión previa al anuncio, no una decisión confirmada. La orientación del crédito chino importa para demanda de materias primas, comercio global y perspectivas de exportadores latinoamericanos.
 
-Noticia 7 de 8. La inflación revela diferencias entre Estados Unidos y Europa.
-Un análisis de Reuters Breakingviews señala que las presiones inflacionarias se distribuyen de manera distinta entre Estados Unidos y Europa, aunque sus tasas generales son elevadas. El análisis considera que los aumentos de precios son más extendidos entre categorías de consumo estadounidenses. Esta diferencia podría llevar a trayectorias monetarias distintas, pero es una interpretación analítica y no una decisión de los bancos centrales.
+Noticia 7 de 8. Las reglas europeas de contenido local complican el comercio automotor con Reino Unido y China.
+Reuters informó que la propuesta europea de contenido fabricado en Europa podría excluir vehículos y componentes producidos en Reino Unido de determinados beneficios públicos. Londres busca que su producción sea reconocida, mientras las inversiones chinas agregan complejidad a la negociación. Son reglas propuestas, no barreras nuevas ya ejecutadas; su desarrollo puede reconfigurar inversiones y cadenas de suministro.
 
-Noticia 8 de 8. Las bolsas asiáticas caen antes del debut de Anthropic.
-Las bolsas asiáticas retrocedieron pese al precio de colocación anunciado para Anthropic, mientras el dólar se fortaleció ante señales de una Reserva Federal restrictiva. La combinación evidencia que el entusiasmo por una operación tecnológica puede coexistir con cautela en el mercado general. El posible efecto sobre Colombia pasaría por el dólar y las condiciones financieras internacionales, todavía sin un impacto local comprobado.
+Noticia 8 de 8. El Brent cierra cerca de 92 dólares entre riesgos en Ormuz y expectativas de excedentes.
+El Brent terminó el jueves en 91 dólares con 98 centavos por barril, casi sin cambios, mientras los riesgos de transporte en Ormuz se contraponían a inventarios crecientes y expectativas de mayor oferta. Reuters atribuyó a medios estatales iraníes reportes de incidentes con buques que no pudo verificar independientemente. Para Colombia y Meta, el precio sostenido del crudo es un canal relevante para exportaciones y actividad petrolera, pero no se ha confirmado un impacto local nuevo.
 
-El hilo conductor de hoy.
-La colocación de Anthropic y los resultados de Nvidia muestran el volumen de capital que moviliza la inteligencia artificial. Al mismo tiempo, las advertencias de la Reserva Federal sobre inflación y riesgos financieros condicionan el precio del dinero y las valoraciones tecnológicas. Desde Estados Unidos y los mercados asiáticos, estos canales pueden alcanzar a Colombia por medio del dólar, el crédito y las carteras de inversión. Para Meta y la Orinoquía, el precio internacional del petróleo constituye otra variable clave, sin que exista un efecto regional nuevo verificado.
-Tres señales observables para vigilar hoy: primera, la apertura y negociación de Anthropic en Nasdaq; segunda, los rendimientos de los bonos del Tesoro y el dólar internacional; tercera, el Brent y los reportes de suministro en Oriente Medio.
-Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.
+El hilo conductor de hoy. La salida a bolsa de Anthropic y el récord exportador de semiconductores de Corea muestran que la inteligencia artificial moviliza capital y comercio reales. Al mismo tiempo, la corrección de Wall Street y Asia y la advertencia de la Reserva Federal muestran que la financiación y la inflación pueden limitar las valoraciones. Ese entorno llega a Colombia por el dólar, las tasas externas y la demanda internacional. Para Meta y la Orinoquía, el Brent añade un canal sectorial importante, sin que exista un impacto local nuevo cuantificado. Tres señales verificables para vigilar: primera, la evolución del Nasdaq y las bolsas europeas; segunda, el rendimiento de los bonos del Tesoro estadounidense y el dólar; tercera, el Brent y el anuncio de tasas preferenciales de China. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.
