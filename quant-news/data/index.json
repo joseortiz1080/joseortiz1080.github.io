@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-19",
+  "latest": "2026-11-20",
   "editions": [
+    {
+      "id": "2026-11-20",
+      "date": "2026-11-20",
+      "label": "Viernes, 20 de noviembre de 2026",
+      "headline": "Corrección global de la IA, tasas estadounidenses y petróleo: canales hacia Colombia",
+      "stories": 8
+    },
     {
       "id": "2026-11-19",
       "date": "2026-11-19",
