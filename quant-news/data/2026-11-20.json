@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-20",
+  "date": "2026-11-20",
+  "label": "Viernes, 20 de noviembre de 2026",
+  "eyebrow": "Edición del viernes",
+  "headline": "Corrección global de la IA, tasas estadounidenses y petróleo: canales hacia Colombia",
+  "intro": "Buenos días.\nHoy es viernes, 20 de noviembre de 2026.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nEsta mañana analizaremos la fuerte caída de las bolsas asiáticas, el debut de Anthropic en Wall Street y las advertencias de la Reserva Federal sobre el auge de la inteligencia artificial.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy. La salida a bolsa de Anthropic y el récord exportador de semiconductores de Corea muestran que la inteligencia artificial moviliza capital y comercio reales. Al mismo tiempo, la corrección de Wall Street y Asia y la advertencia de la Reserva Federal muestran que la financiación y la inflación pueden limitar las valoraciones. Ese entorno llega a Colombia por el dólar, las tasas externas y la demanda internacional. Para Meta y la Orinoquía, el Brent añade un canal sectorial importante, sin que exista un impacto local nuevo cuantificado. Tres señales verificables para vigilar: primera, la evolución del Nasdaq y las bolsas europeas; segunda, el rendimiento de los bonos del Tesoro estadounidense y el dólar; tercera, el Brent y el anuncio de tasas preferenciales de China. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": "2026-11-20-1",
+      "title": "Las bolsas asiáticas se encaminan a su peor semana desde 2020",
+      "category": "Mercados",
+      "region": "Asia",
+      "text": "Las acciones de Asia-Pacífico fuera de Japón retrocedían 3,3 por ciento el viernes y acumulaban una pérdida semanal de 8,5 por ciento, según Reuters. La caída observada refleja una revisión del riesgo tecnológico, no una prueba de recesión. La búsqueda de refugio favorecía al dólar y podría aumentar la volatilidad de monedas emergentes como el peso colombiano.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-20/"
+    },
+    {
+      "id": "2026-11-20-2",
+      "title": "Wall Street cae más de dos por ciento pese al debut de Anthropic",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "text": "El jueves, el S y P quinientos perdió 2,02 por ciento, el Nasdaq 2,25 por ciento y el Dow Jones 2,19 por ciento. Fue la sexta caída consecutiva del S y P quinientos, mientras los inversionistas evaluaban valoraciones y financiación de la inteligencia artificial. Una prolongación de esta aversión al riesgo podría influir en los flujos hacia mercados emergentes, sin implicar una reacción idéntica en Colombia.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19/"
+    },
+    {
+      "id": "2026-11-20-3",
+      "title": "Anthropic sube diecisiete por ciento en su estreno bursátil",
+      "category": "Inteligencia artificial",
+      "region": "Estados Unidos",
+      "text": "Anthropic abrió a 111 dólares con 50 centavos, por encima de su colocación a 83 dólares, y cerró a 97 dólares con 17 centavos por acción, un avance de alrededor de 17 por ciento frente al precio de oferta. La operación confirma interés por una empresa líder en inteligencia artificial, aunque el mercado general cayó ese mismo día. La valoración obliga a contrastar crecimiento de ingresos con compromisos de infraestructura y rentabilidad futura.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/view-anthropic-set-soar-debut-will-ai-peers-follow-2026-11-19/"
+    },
+    {
+      "id": "2026-11-20-4",
+      "title": "La Reserva Federal advierte que la inversión en IA puede alimentar la inflación",
+      "category": "Macroeconomía",
+      "region": "Estados Unidos",
+      "text": "Austan Goolsbee, presidente de la Reserva Federal de Chicago, advirtió que la expansión de centros de datos podría tensionar la capacidad productiva y elevar las presiones inflacionarias. Es una evaluación de riesgos, no un nuevo aumento de tasas. Si las expectativas monetarias se endurecen, los canales hacia Colombia serían los rendimientos de los bonos, el dólar y el costo del crédito externo.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/feds-goolsbee-says-ai-surge-could-strain-us-capacity-overheat-economy-2026-11-19/"
+    },
+    {
+      "id": "2026-11-20-5",
+      "title": "Corea del Sur supera un billón de dólares en exportaciones impulsadas por chips",
+      "category": "Tecnología y comercio",
+      "region": "Asia",
+      "text": "Corea del Sur superó el billón de dólares en exportaciones acumuladas del año, con un incremento de 184 por ciento en ventas de semiconductores durante los tres primeros trimestres. La cifra muestra demanda real de componentes para inteligencia artificial, aunque el consumo doméstico sigue débil. El caso evidencia que un auge exportador no necesariamente se transmite de inmediato a todos los hogares.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/south-korea-becomes-fourth-country-globally-hit-1-trillion-exports-ai-chip-boom-2026-11-19/"
+    },
+    {
+      "id": "2026-11-20-6",
+      "title": "China llega a la revisión de tasas con expectativas de estabilidad",
+      "category": "Política monetaria",
+      "region": "China",
+      "text": "Una encuesta de Reuters encontró que 23 de 28 participantes esperaban que China mantuviera sus tasas preferenciales de préstamos en tres y tres coma cinco por ciento. Es una previsión previa al anuncio, no una decisión confirmada. La orientación del crédito chino importa para demanda de materias primas, comercio global y perspectivas de exportadores latinoamericanos.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-expected-hold-benchmark-lending-rates-november-some-see-cut-coming-2026-11-19/"
+    },
+    {
+      "id": "2026-11-20-7",
+      "title": "Las reglas europeas de contenido local complican el comercio automotor con Reino Unido y China",
+      "category": "Comercio exterior",
+      "region": "Europa",
+      "text": "Reuters informó que la propuesta europea de contenido fabricado en Europa podría excluir vehículos y componentes producidos en Reino Unido de determinados beneficios públicos. Londres busca que su producción sea reconocida, mientras las inversiones chinas agregan complejidad a la negociación. Son reglas propuestas, no barreras nuevas ya ejecutadas; su desarrollo puede reconfigurar inversiones y cadenas de suministro.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/uks-eu-reset-hits-china-ev-speed-bump-2026-11-19/"
+    },
+    {
+      "id": "2026-11-20-8",
+      "title": "El Brent cierra cerca de 92 dólares entre riesgos en Ormuz y expectativas de excedentes",
+      "category": "Energía",
+      "region": "Global y Colombia",
+      "text": "El Brent terminó el jueves en 91 dólares con 98 centavos por barril, casi sin cambios, mientras los riesgos de transporte en Ormuz se contraponían a inventarios crecientes y expectativas de mayor oferta. Reuters atribuyó a medios estatales iraníes reportes de incidentes con buques que no pudo verificar independientemente. Para Colombia y Meta, el precio sostenido del crudo es un canal relevante para exportaciones y actividad petrolera, pero no se ha confirmado un impacto local nuevo.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/"
+    }
+  ]
+}
