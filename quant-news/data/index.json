@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-20",
+  "latest": "2026-11-21",
   "editions": [
+    {
+      "id": "2026-11-21",
+      "date": "2026-11-21",
+      "label": "Sábado, 21 de noviembre de 2026",
+      "headline": "Corrección bursátil global, inflación de Estados Unidos y petróleo: señales para Colombia",
+      "stories": 8
+    },
     {
       "id": "2026-11-20",
       "date": "2026-11-20",
