@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-21",
+  "date": "2026-11-21",
+  "label": "Sábado, 21 de noviembre de 2026",
+  "eyebrow": "Edición del sábado",
+  "headline": "Corrección bursátil global, inflación de Estados Unidos y petróleo: señales para Colombia",
+  "intro": "Buenos días. Hoy es sábado, 21 de noviembre de 2026. Comienza una nueva jornada y el mundo sigue moviéndose. Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología. Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades. Hoy revisaremos la corrección de Wall Street, la postura de la Reserva Federal ante la inflación y el comportamiento del petróleo, mientras China enfrenta nuevas restricciones tecnológicas. Esto es QUANT News, tu informe de inteligencia para comenzar el día. Estas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy.  La corrección de Wall Street y la caída de las bolsas europeas reflejan una reevaluación del precio de las inversiones tecnológicas. Las restricciones a chips en China añaden un canal comercial, mientras las declaraciones de la Reserva Federal mantienen la atención sobre el costo del dinero. Desde las grandes economías, esos mecanismos pueden transmitirse a Colombia por el dólar, el crédito y las exportaciones. En Meta y la Orinoquía, el petróleo constituye un canal sectorial concreto, aunque no se verificó una consecuencia local nueva.  Tres señales para vigilar durante la jornada y la próxima apertura de mercados: primera, los futuros del Nasdaq y los rendimientos del Tesoro estadounidense; segunda, las cotizaciones de bitcoin y el dólar frente al peso; tercera, el Brent y los comunicados verificables sobre tránsito petrolero por Ormuz.  Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Wall Street entra en corrección tras una nueva caída de las tecnológicas",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "text": "Wall Street terminó el viernes con caídas de tres coma setenta por ciento en el S y P quinientos, cinco coma veintiocho por ciento en el Nasdaq y uno coma noventa y tres por ciento en el Dow Jones. Los índices S y P quinientos y Dow quedaron más de diez por ciento por debajo de sus máximos, una corrección bursátil observada. La revisión de valoraciones vinculadas a inteligencia artificial podría afectar la financiación de empresas y el apetito por activos emergentes, pero no implica por sí misma una recesión.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/"
+    },
+    {
+      "id": 2,
+      "title": "Una gobernadora de la Reserva Federal defiende mayores tasas para combatir la inflación",
+      "category": "Macroeconomía",
+      "region": "Estados Unidos",
+      "text": "La gobernadora Lisa Cook sostuvo que las tasas estadounidenses deben subir para reducir una inflación todavía elevada. Es la posición expresada por una integrante de la Reserva Federal, no una decisión nueva del comité monetario. Si las expectativas de tasas aumentan, los canales hacia Colombia incluyen el dólar, los bonos del Tesoro y el costo de financiarse en moneda extranjera.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/feds-cook-says-rate-hikes-needed-lower-high-inflation-2026-11-20/"
+    },
+    {
+      "id": 3,
+      "title": "Las bolsas europeas registran su peor semana en más de un año",
+      "category": "Mercados",
+      "region": "Europa",
+      "text": "Las bolsas europeas cayeron dos por ciento el viernes y el índice STOXX seiscientos acumuló una pérdida semanal superior al cinco por ciento. La presión alcanzó a fabricantes de chips y otros sectores, según Reuters. Para las empresas, un menor valor bursátil puede encarecer la captación de capital; no prueba una contracción económica ya registrada.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/europe/european-shares-head-steepest-weekly-drop-since-march-2026-11-20/"
+    },
+    {
+      "id": 4,
+      "title": "Las restricciones estadounidenses a chips presionan a las tecnológicas chinas",
+      "category": "Tecnología",
+      "region": "China",
+      "text": "Las nuevas restricciones estadounidenses a centros de datos extranjeros que atienden compañías chinas presionaron acciones tecnológicas y reforzaron los planes de autosuficiencia. Reuters informó que Alibaba prevé una desaceleración del crecimiento de su nube, mientras Tencent destacó el uso posible de chips nacionales para inferencia. Los controles pueden modificar compras de procesadores, inversión y cadenas de suministro, sin asegurar que China sustituya inmediatamente toda la tecnología restringida.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/"
+    },
+    {
+      "id": 5,
+      "title": "Colombia registra una TRM de tres mil cuatrocientos sesenta y un pesos con noventa y dos centavos",
+      "category": "Divisas",
+      "region": "Colombia",
+      "text": "Colombia.com informó que la tasa representativa del mercado para este sábado es de tres mil cuatrocientos sesenta y un pesos con noventa y dos centavos por dólar. Es una referencia oficial publicada para la jornada, no el precio al que necesariamente compra o vende cada casa de cambio. Una depreciación sostenida encarecería importaciones y obligaciones en dólares, aunque también podría favorecer ingresos de algunos exportadores.",
+      "source": "Colombia.com",
+      "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-sabado-21-de-noviembre-de-2026-613577"
+    },
+    {
+      "id": 6,
+      "title": "El Brent sube al cierre pese a una semana de retrocesos",
+      "category": "Energía",
+      "region": "Global y Colombia",
+      "text": "El Brent cerró el viernes en noventa y dos dólares con cincuenta y siete centavos por barril, con un alza diaria de cero coma sesenta y cuatro por ciento, aunque acumuló una pérdida semanal cercana al cuatro por ciento. Reuters describió una tensión entre la recuperación de flujos petroleros por Ormuz y los riesgos de ataques al transporte. Para Colombia y la producción petrolera de Meta, el precio sostenido del crudo influye en ingresos del sector; no se verificó un impacto departamental nuevo.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-edge-higher-houthi-attacks-riyadh-raise-supply-concerns-2026-11-20/"
+    },
+    {
+      "id": 7,
+      "title": "Bitcoin toca su nivel más bajo en dos años",
+      "category": "Fintech",
+      "region": "Global",
+      "text": "Reuters reportó que bitcoin cayó hasta aproximadamente cincuenta y cinco mil ochocientos treinta dólares en la noche del viernes, su nivel más bajo desde septiembre de dos mil veinticuatro. La caída coincidió con ventas de activos de riesgo, pero esa simultaneidad no permite atribuirla a una causa única. El episodio recuerda a plataformas fintech, inversionistas y hogares la exposición a volatilidad y posibles pérdidas en criptoactivos.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/bitcoin-falls-357-56814-2026-11-21/"
+    },
+    {
+      "id": 8,
+      "title": "Los inversionistas rotan desde acciones de crecimiento hacia empresas de valor",
+      "category": "Inversiones",
+      "region": "Estados Unidos",
+      "text": "Reuters documentó una reasignación hacia bonos y acciones con múltiplos de valoración más bajos durante la venta de títulos de inteligencia artificial. El índice de valor del S y P quinientos acumulaba una subida de siete por ciento en el año, frente a una caída de cuatro por ciento en su índice de crecimiento. El contraste muestra diferencias observadas entre estilos de inversión, no una garantía de que las acciones de valor seguirán superando a las tecnológicas.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/ai-tech-rout-prompts-us-investors-rush-into-value-stocks-2026-11-20/"
+    }
+  ]
+}
