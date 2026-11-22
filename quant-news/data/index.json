@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-21",
+  "latest": "2026-11-22",
   "editions": [
+    {
+      "id": "2026-11-22",
+      "date": "2026-11-22",
+      "label": "Domingo, 22 de noviembre de 2026",
+      "headline": "Nvidia, financiación de la IA y comercio europeo: riesgos y oportunidades globales",
+      "stories": 8
+    },
     {
       "id": "2026-11-21",
       "date": "2026-11-21",
