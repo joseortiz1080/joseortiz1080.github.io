@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-23",
+  "date": "2026-11-23",
+  "label": "Lunes, 23 de noviembre de 2026",
+  "eyebrow": "Edición del lunes",
+  "headline": "Mercados globales, chips de Nvidia y soberanía digital: señales hacia Colombia",
+  "intro": "Buenos días.\nHoy es lunes, 23 de noviembre de 2026.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nEsta mañana veremos el intento de recuperación de los mercados tras la corrección de Wall Street, las medidas de estabilización en Asia y las nuevas preguntas de Estados Unidos sobre chips de Nvidia enviados a China.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy.\nLa corrección de Wall Street, la intervención anunciada por autoridades asiáticas y las preguntas sobre los chips de Nvidia comparten un canal: la revisión del riesgo y del retorno de las inversiones tecnológicas. Europa, al buscar mayor control sobre su infraestructura de nube, agrega la dimensión de dependencia estratégica. Desde las principales economías, estos movimientos pueden llegar a Colombia mediante el dólar, los flujos de inversión y el costo de capital. Para Meta y la Orinoquía, cualquier impacto petrolero o empresarial específico necesita evidencia local que hoy no se verificó.\nTres señales observables para vigilar: primera, el comportamiento efectivo del Nasdaq y del índice de volatilidad VIX en la apertura; segunda, los rendimientos de los bonos del Tesoro de Estados Unidos y la cotización del dólar frente al peso; tercera, los anuncios oficiales de autoridades asiáticas sobre estabilización y controles de semiconductores.\nHasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": 1,
+      "title": "Wall Street busca señales de estabilización tras entrar en corrección",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "text": "Reuters informó que el S y P quinientos cerró la semana un once coma seis por ciento por debajo de su máximo del seis de octubre, entrando en territorio de corrección. Los inversionistas examinan volatilidad y amplitud del mercado para evaluar si las ventas podrían moderarse; ninguna señal garantiza un piso. Para Colombia, un cambio persistente en el apetito global por riesgo puede influir en flujos de capital, tasas y tipo de cambio.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/correction-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-2026-11-22/"
+    },
+    {
+      "id": 2,
+      "title": "Los futuros estadounidenses repuntan mientras Asia adopta medidas de estabilización",
+      "category": "Mercados",
+      "region": "Global",
+      "text": "Los futuros del Nasdaq cien subían tres coma tres por ciento y los del S y P quinientos dos coma cinco por ciento en la mañana internacional del lunes, según Reuters. Taiwán endureció reglas sobre ventas en corto y bolsas chinas anunciaron facilidades de financiación con margen. Es un rebote observado en futuros, no la confirmación de una recuperación sostenida; la transmisión hacia emergentes depende de cómo evolucione el riesgo global.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/"
+    },
+    {
+      "id": 3,
+      "title": "Corea del Sur promete medidas de estabilización tras una caída del KOSPI",
+      "category": "Mercados",
+      "region": "Asia",
+      "text": "El KOSPI llegó a caer cinco por ciento y el ministro de Finanzas surcoreano reiteró que podrían activarse fondos de estabilización si empeoran las condiciones. La presión está vinculada a la revisión de expectativas sobre acciones de tecnología e inteligencia artificial. La promesa de intervención no equivale a una ejecución confirmada; importa para el financiamiento de fabricantes de chips y sus proveedores internacionales.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-2026-11-23/"
+    },
+    {
+      "id": 4,
+      "title": "Estados Unidos solicita explicaciones a Nvidia por ventas de chips a China",
+      "category": "Tecnología",
+      "region": "Estados Unidos y China",
+      "text": "El secretario del Tesoro estadounidense, Scott Bessent, declaró que el Gobierno busca respuestas de Nvidia sobre ventas de procesadores a China y sobre responsabilidades de cumplimiento normativo. Se trata de preguntas e investigaciones, no de una infracción probada. Las restricciones y revisiones pueden afectar la oferta de chips avanzados, inversiones en centros de datos y relaciones comerciales entre las dos economías.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/"
+    },
+    {
+      "id": 5,
+      "title": "Europa avanza en soberanía de nube, aunque predominan proveedores estadounidenses",
+      "category": "Tecnología",
+      "region": "Europa",
+      "text": "Reuters documentó que gobiernos e industrias reguladas europeas incorporan criterios de soberanía digital al contratar servicios de nube. Amazon, Microsoft y Google siguen siendo proveedores dominantes y adaptan sus ofertas, mientras migrar sistemas presenta costos y dependencia tecnológica. Para empresas colombianas, el caso ofrece una referencia sobre residencia de datos, continuidad y contratación, sin implicar nuevas reglas locales.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/"
+    },
+    {
+      "id": 6,
+      "title": "La COP31 termina sin acuerdo político general sobre el clima",
+      "category": "Sostenibilidad",
+      "region": "Global",
+      "text": "La conferencia climática COP treinta y uno en Turquía terminó sin consenso sobre un acuerdo político general, según Reuters. Delegaciones y Naciones Unidas expresaron decepción, aunque se anunciaron compromisos parciales durante el encuentro. La ausencia de acuerdo puede aumentar incertidumbre sobre coordinación internacional y financiación climática; no significa que hayan desaparecido las políticas nacionales existentes.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-deal-balance-after-fractious-talks-2026-11-22/"
+    },
+    {
+      "id": 7,
+      "title": "India retrocede por toma de utilidades tras cuatro semanas de avances",
+      "category": "Mercados",
+      "region": "India",
+      "text": "El índice Nifty cincuenta bajaba cero coma sesenta y cinco por ciento y el Sensex cero coma sesenta y uno por ciento en la sesión del lunes, tras cuatro semanas de ganancias. Reuters reportó ventas en bancos y otros sectores, en medio de la volatilidad tecnológica mundial. La divergencia entre mercados recuerda que los flujos internacionales no se transmiten uniformemente; las cifras son intradía y pueden cambiar.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/indian-shares-set-open-higher-foreign-inflows-ai-selloff-persists-2026-11-23/"
+    },
+    {
+      "id": 8,
+      "title": "Análisis: la caída de acciones de IA en China no equivale a igual caída del PIB",
+      "category": "Análisis de mercados",
+      "region": "China",
+      "text": "Un análisis de opinión publicado por Reuters distingue el impacto de la corrección bursátil de inteligencia artificial en las acciones chinas de su efecto potencial sobre la economía real. Es una interpretación del autor, no una medición oficial de crecimiento. Para evaluar efectos en comercio y Colombia, conviene contrastar precios bursátiles con inversión efectiva, producción industrial y demanda de materias primas.",
+      "source": "Reuters Breakingviews",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/ai-bust-hurts-chinese-stocks-far-more-than-gdp-manishi-raychaudhuri-2026-11-22/"
+    }
+  ]
+}
