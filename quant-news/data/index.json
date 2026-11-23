@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-22",
+  "latest": "2026-11-23",
   "editions": [
+    {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "label": "Lunes, 23 de noviembre de 2026",
+      "headline": "Mercados globales, chips de Nvidia y soberanía digital: señales hacia Colombia",
+      "stories": 8
+    },
     {
       "id": "2026-11-22",
       "date": "2026-11-22",
