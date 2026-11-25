@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "latest": "2026-11-23",
+  "latest": "2026-11-25",
   "editions": [
+    {
+      "id": "2026-11-25",
+      "date": "2026-11-25",
+      "label": "Miércoles, 25 de noviembre de 2026",
+      "headline": "Wall Street, aranceles y dólar: el costo del capital y la competencia tecnológica",
+      "stories": 8
+    },
     {
       "id": "2026-11-23",
       "date": "2026-11-23",
