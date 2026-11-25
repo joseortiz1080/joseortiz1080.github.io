@@ -1,37 +1,34 @@
 Buenos días.
-Hoy es lunes, 23 de noviembre de 2026.
+Hoy es miércoles, veinticinco de noviembre de dos mil veintiséis.
 Comienza una nueva jornada y el mundo sigue moviéndose.
 Mientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.
 Hoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.
-Esta mañana veremos el intento de recuperación de los mercados tras la corrección de Wall Street, las medidas de estabilización en Asia y las nuevas preguntas de Estados Unidos sobre chips de Nvidia enviados a China.
+Hoy revisaremos el retroceso tecnológico en Wall Street, los posibles nuevos aranceles estadounidenses y el ascenso del dólar en Colombia.
 Esto es QUANT News, tu informe de inteligencia para comenzar el día.
 Estas son las noticias que vale la pena conocer.
 
-Noticia 1 de 8. Wall Street busca señales de estabilización tras entrar en corrección.
-Reuters informó que el S y P quinientos cerró la semana un once coma seis por ciento por debajo de su máximo del seis de octubre, entrando en territorio de corrección. Los inversionistas examinan volatilidad y amplitud del mercado para evaluar si las ventas podrían moderarse; ninguna señal garantiza un piso. Para Colombia, un cambio persistente en el apetito global por riesgo puede influir en flujos de capital, tasas y tipo de cambio.
+Noticia 1 de 8. Wall Street vuelve a retroceder en tecnología.
+El Nasdaq perdió uno coma cuarenta y ocho por ciento el martes, el S y P quinientos cayó medio punto porcentual y el Dow Jones ganó cero coma ochenta y cinco por ciento. Nvidia retrocedió cinco coma nueve por ciento. La divergencia muestra que la presión no fue uniforme; una caída persistente podría reducir el apetito por activos emergentes.
 
-Noticia 2 de 8. Los futuros estadounidenses repuntan mientras Asia adopta medidas de estabilización.
-Los futuros del Nasdaq cien subían tres coma tres por ciento y los del S y P quinientos dos coma cinco por ciento en la mañana internacional del lunes, según Reuters. Taiwán endureció reglas sobre ventas en corto y bolsas chinas anunciaron facilidades de financiación con margen. Es un rebote observado en futuros, no la confirmación de una recuperación sostenida; la transmisión hacia emergentes depende de cómo evolucione el riesgo global.
+Noticia 2 de 8. Estados Unidos prepara posibles aranceles para dieciséis socios.
+Reuters informó, citando fuentes conocedoras, que Washington prepara los resultados de una investigación sobre exceso de capacidad industrial y posibles nuevos aranceles. No se trata todavía de tarifas definitivas verificadas. Su aplicación podría alterar costos de importación y cadenas de suministro.
 
-Noticia 3 de 8. Corea del Sur promete medidas de estabilización tras una caída del KOSPI.
-El KOSPI llegó a caer cinco por ciento y el ministro de Finanzas surcoreano reiteró que podrían activarse fondos de estabilización si empeoran las condiciones. La presión está vinculada a la revisión de expectativas sobre acciones de tecnología e inteligencia artificial. La promesa de intervención no equivale a una ejecución confirmada; importa para el financiamiento de fabricantes de chips y sus proveedores internacionales.
+Noticia 3 de 8. La inteligencia artificial entra en el debate monetario de la Reserva Federal.
+Reuters documentó que varios funcionarios de la Reserva Federal consideran que la inversión en inteligencia artificial puede presionar la capacidad productiva y los precios a corto plazo. Los beneficios de productividad podrían llegar después. Una política monetaria más restrictiva encarecería el crédito, pero no se ha anunciado una nueva decisión de tasas.
 
-Noticia 4 de 8. Estados Unidos solicita explicaciones a Nvidia por ventas de chips a China.
-El secretario del Tesoro estadounidense, Scott Bessent, declaró que el Gobierno busca respuestas de Nvidia sobre ventas de procesadores a China y sobre responsabilidades de cumplimiento normativo. Se trata de preguntas e investigaciones, no de una infracción probada. Las restricciones y revisiones pueden afectar la oferta de chips avanzados, inversiones en centros de datos y relaciones comerciales entre las dos economías.
+Noticia 4 de 8. Fitch mantiene neutral su perspectiva soberana mundial.
+Fitch proyecta un crecimiento mundial cercano al dos coma cinco por ciento para dos mil veintisiete y advierte sobre deuda y costos financieros elevados. Es una previsión, no un resultado observado. Para Colombia, el riesgo relevante es el costo de refinanciar deuda en mercados internacionales.
 
-Noticia 5 de 8. Europa avanza en soberanía de nube, aunque predominan proveedores estadounidenses.
-Reuters documentó que gobiernos e industrias reguladas europeas incorporan criterios de soberanía digital al contratar servicios de nube. Amazon, Microsoft y Google siguen siendo proveedores dominantes y adaptan sus ofertas, mientras migrar sistemas presenta costos y dependencia tecnológica. Para empresas colombianas, el caso ofrece una referencia sobre residencia de datos, continuidad y contratación, sin implicar nuevas reglas locales.
+Noticia 5 de 8. Alemania crece menos de lo estimado.
+La oficina estadística alemana revisó el crecimiento del tercer trimestre a cero coma uno por ciento frente al trimestre anterior, desde cero coma dos por ciento. Exportaciones y ventas minoristas más débiles explicaron la revisión. Una demanda europea débil podría limitar oportunidades exportadoras, sin demostrar una pérdida concreta para Colombia.
 
-Noticia 6 de 8. La COP31 termina sin acuerdo político general sobre el clima.
-La conferencia climática COP treinta y uno en Turquía terminó sin consenso sobre un acuerdo político general, según Reuters. Delegaciones y Naciones Unidas expresaron decepción, aunque se anunciaron compromisos parciales durante el encuentro. La ausencia de acuerdo puede aumentar incertidumbre sobre coordinación internacional y financiación climática; no significa que hayan desaparecido las políticas nacionales existentes.
+Noticia 6 de 8. Europa estudia un fondo tecnológico de hasta cincuenta mil millones de euros.
+Reuters recogió información del Financial Times sobre un posible fondo europeo para reducir la dependencia tecnológica de Estados Unidos y China. La cifra corresponde a un plan en discusión, no a desembolsos realizados. Su materialización podría ampliar las fuentes de financiación de empresas tecnológicas europeas.
 
-Noticia 7 de 8. India retrocede por toma de utilidades tras cuatro semanas de avances.
-El índice Nifty cincuenta bajaba cero coma sesenta y cinco por ciento y el Sensex cero coma sesenta y uno por ciento en la sesión del lunes, tras cuatro semanas de ganancias. Reuters reportó ventas en bancos y otros sectores, en medio de la volatilidad tecnológica mundial. La divergencia entre mercados recuerda que los flujos internacionales no se transmiten uniformemente; las cifras son intradía y pueden cambiar.
+Noticia 7 de 8. China y Estados Unidos dialogan sobre comercio agrícola.
+El Ministerio de Comercio chino informó de la primera reunión del grupo bilateral de agricultura, celebrada en Pekín el lunes y martes. Se discutieron regulación, acceso a mercados y comercio, sin anunciar concesiones específicas. Los cambios futuros podrían modificar la competencia agrícola internacional.
 
-Noticia 8 de 8. Análisis: la caída de acciones de IA en China no equivale a igual caída del PIB.
-Un análisis de opinión publicado por Reuters distingue el impacto de la corrección bursátil de inteligencia artificial en las acciones chinas de su efecto potencial sobre la economía real. Es una interpretación del autor, no una medición oficial de crecimiento. Para evaluar efectos en comercio y Colombia, conviene contrastar precios bursátiles con inversión efectiva, producción industrial y demanda de materias primas.
+Noticia 8 de 8. El dólar oficial colombiano sube dos coma cuarenta y seis por ciento.
+La tasa representativa del mercado vigente hoy es de tres mil quinientos noventa y dos pesos con tres centavos por dólar, ochenta y seis pesos con once centavos más que ayer. La cifra coincide en Colombia.com y La República. Una depreciación sostenida encarecería importaciones y deudas en dólares, aunque puede favorecer ingresos de exportadores.
 
-El hilo conductor de hoy.
-La corrección de Wall Street, la intervención anunciada por autoridades asiáticas y las preguntas sobre los chips de Nvidia comparten un canal: la revisión del riesgo y del retorno de las inversiones tecnológicas. Europa, al buscar mayor control sobre su infraestructura de nube, agrega la dimensión de dependencia estratégica. Desde las principales economías, estos movimientos pueden llegar a Colombia mediante el dólar, los flujos de inversión y el costo de capital. Para Meta y la Orinoquía, cualquier impacto petrolero o empresarial específico necesita evidencia local que hoy no se verificó.
-Tres señales observables para vigilar: primera, el comportamiento efectivo del Nasdaq y del índice de volatilidad VIX en la apertura; segunda, los rendimientos de los bonos del Tesoro de Estados Unidos y la cotización del dólar frente al peso; tercera, los anuncios oficiales de autoridades asiáticas sobre estabilización y controles de semiconductores.
-Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.
+El hilo conductor de hoy. La volatilidad tecnológica, el debate monetario estadounidense y la perspectiva de Fitch conectan por el costo del capital y la capacidad de financiar inversiones. Colombia recibe estos riesgos a través de los mercados de deuda y divisas; el aumento de la tasa representativa es un hecho, pero no demuestra una causa única. En Meta y la Orinoquía, el tipo de cambio puede afectar insumos importados y los ingresos en pesos del sector petrolero, sin que se haya verificado un efecto local nuevo. Tres señales para vigilar: primera, el informe estadounidense de inflación del consumo personal y los rendimientos del Tesoro; segunda, el Nasdaq y los anuncios oficiales sobre aranceles; tercera, el dólar frente al peso y el Brent. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.
