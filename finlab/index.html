@@ -100,7 +100,7 @@ $('menu').onclick=()=>$('nav').classList.toggle('open');
       $('gallery').addEventListener('input',()=>mark(['items',i,'images']));
       $('gallery').addEventListener('click',e=>{if(e.target.matches('[data-remove]'))setTimeout(()=>mark(['items',i,'images']),0)});
       let old=$('saveManual');if(old)old.remove();
-      $('finish').onclick=async()=>{if(valid(i).length)return;if(unsaved.size){alert('Guarde todos los campos pendientes antes de continuar.');return}state.items[i].done=true;mark(['items',i,'done']);if(await write(['items',i,'done']))go(i===16?'manual':i+1)};
+      $('finish').onclick=async()=>{if(valid(i).length)return;if(saving){alert('Espere a que termine el guardado.');return}if(unsaved.size){for(const key of [...unsaved]){if(!(await write(JSON.parse(key)))){alert('No se pudo guardar todo. Permanezca en esta página e intente de nuevo.');return}}if(unsaved.size){alert('Hay cambios nuevos pendientes. Espere y vuelva a intentarlo.');return}}state.items[i].done=true;mark(['items',i,'done']);if(await write(['items',i,'done']))go(i===16?'manual':i+1)};
     }
   }
   const renderOriginal=render;render=function(){renderOriginal();decorate()};
