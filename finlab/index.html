@@ -51,4 +51,60 @@ function para(text,style='',extra=''){return String(text??'').split(/\r?\n/).map
 function makeDocx(forceDraft=false){let files={},rels=[],id=0,body='';for(let b of documentModel()){if(b.kind==='cover'){b.lines.forEach((l,i)=>{if(forceDraft&&i===8)l='BORRADOR — revisión en curso';body+=para(l,i===2?'Title':i===3?'Subtitle':'Cover',i===0?'<w:spacing w:before="1000" w:after="200"/>':'')});body+=pageBreak}else if(b.kind==='toc'){body+=para('Tabla de contenido','Heading1')+b.lines.map(l=>para(l)).join('')+pageBreak}else{if(!b.title.startsWith('1. '))body+=pageBreak;body+=para(b.title,'Heading1');for(let e of b.entries){body+=para(e.title,'Heading2')+para(e.draft||'[Redacción pendiente]')+para('Estado de verificación: '+e.status);if(e.note)body+=para('Observaciones: '+e.note);for(let im of e.images){id++;let file=`image${id}.jpg`,rid=`rIdImg${id}`;files['word/media/'+file]=Uint8Array.from(atob(im.url.split(',')[1]),c=>c.charCodeAt(0));rels.push(`<Relationship Id="${rid}" Type="${relns}/image" Target="media/${file}"/>`);let scale=Math.min(1,5500000/(im.width*9525),4700000/(im.height*9525)),cx=Math.round(im.width*9525*scale),cy=Math.round(im.height*9525*scale);body+=`<w:p><w:pPr><w:jc w:val="center"/><w:keepNext/></w:pPr><w:r><w:drawing><wp:inline distT="0" distB="0" distL="0" distR="0"><wp:extent cx="${cx}" cy="${cy}"/><wp:docPr id="${id}" name="Figura ${id}" descr="${xml(im.title)}"/><a:graphic><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture"><pic:pic><pic:nvPicPr><pic:cNvPr id="${id}" name="${file}"/><pic:cNvPicPr/></pic:nvPicPr><pic:blipFill><a:blip r:embed="${rid}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill><pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="${cx}" cy="${cy}"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></pic:spPr></pic:pic></a:graphicData></a:graphic></wp:inline></w:drawing></w:r></w:p>`+para(im.caption+'\nFuente: elaboración propia mediante captura de pantalla.','Caption')}}}}
 files['[Content_Types].xml']=xmlHead+`<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/><Default Extension="jpg" ContentType="image/jpeg"/><Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/><Override PartName="/word/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"/></Types>`;files['_rels/.rels']=xmlHead+`<Relationships xmlns="${pkgns}"><Relationship Id="rId1" Type="${relns}/officeDocument" Target="word/document.xml"/></Relationships>`;files['word/_rels/document.xml.rels']=xmlHead+`<Relationships xmlns="${pkgns}"><Relationship Id="rIdStyles" Type="${relns}/styles" Target="styles.xml"/>${rels.join('')}</Relationships>`;files['word/document.xml']=xmlHead+`<w:document xmlns:w="${wns}" xmlns:r="${relns}" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture"><w:body>${body}<w:sectPr><w:pgSz w:w="12240" w:h="15840"/><w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/></w:sectPr></w:body></w:document>`;files['word/styles.xml']=xmlHead+`<w:styles xmlns:w="${wns}"><w:docDefaults><w:rPrDefault><w:rPr><w:rFonts w:ascii="Arial" w:hAnsi="Arial"/><w:sz w:val="22"/><w:lang w:val="es-CO"/></w:rPr></w:rPrDefault><w:pPrDefault><w:pPr><w:spacing w:after="140" w:line="360" w:lineRule="auto"/></w:pPr></w:pPrDefault></w:docDefaults><w:style w:type="paragraph" w:default="1" w:styleId="Normal"><w:name w:val="Normal"/></w:style>${[['Title','Título',42,true,'center',0],['Subtitle','Subtítulo',30,true,'center',0],['Cover','Portada',24,false,'center',0],['Heading1','heading 1',32,true,'left',1],['Heading2','heading 2',26,true,'left',2],['Caption','Leyenda',19,false,'center',0]].map(([id,name,size,bold,align,level])=>`<w:style w:type="paragraph" w:styleId="${id}"><w:name w:val="${name}"/><w:basedOn w:val="Normal"/><w:pPr><w:jc w:val="${align}"/>${level?`<w:keepNext/><w:outlineLvl w:val="${level-1}"/>`:''}<w:spacing w:before="${level?180:100}" w:after="160"/></w:pPr><w:rPr>${bold?'<w:b/>':''}<w:color w:val="${level||id==='Title'?'102C4B':'26384B'}"/><w:sz w:val="${size}"/></w:rPr></w:style>`).join('')}</w:styles>`;return zip(files)}
 $('menu').onclick=()=>$('nav').classList.toggle('open');(async()=>{try{db=await openDB();let saved=await getDB();if(saved)state=safeState(saved);$('saveState').textContent='Guardado local disponible'}catch(e){$('saveState').textContent='Sin guardado · usa respaldo';console.error(e)}render()})();
+</script><script>
+(function(){
+  const url='https://script.google.com/macros/s/AKfycbwfgtZKskIATw8XALI1G7lWUBayznuQJQ2Hb-dKAzCMHQYs6nwQyWm3X_U_f6xb2jyQsA/exec';
+  let version=null, timer=null, running=false, pending=false, paused=true;
+  const status=t=>{const el=document.getElementById('saveState');if(el)el.textContent=t};
+  function read(){return new Promise((resolve,reject)=>{
+    const cb='finlabCallback_'+Date.now()+'_'+Math.floor(Math.random()*1e9), script=document.createElement('script');
+    const timeout=setTimeout(()=>finish(Error('No responde Google Sheets')),25000);
+    function finish(error,value){clearTimeout(timeout);delete window[cb];script.remove();error?reject(error):resolve(value)}
+    window[cb]=data=>data&&data.ok?finish(null,data):finish(Error(data?.error||'Respuesta incorrecta'));
+    script.onerror=()=>finish(Error('No se pudo leer el manual'));
+    script.src=url+'?callback='+cb+'&t='+Date.now();document.head.appendChild(script);
+  })}
+  function hasWork(s){return JSON.stringify(s)!==JSON.stringify(fresh())}
+  function schedule(){if(paused)return;pending=true;clearTimeout(timer);timer=setTimeout(flush,1500)}
+  async function flush(){
+    if(paused||running||!pending)return;
+    running=true;pending=false;status('Guardando en Google Sheets…');
+    const snapshot=JSON.stringify(state), next='v_'+Date.now()+'_'+Math.random().toString(36).slice(2);
+    try{
+      if(snapshot.length>4000000)throw Error('El manual supera el límite de 4 millones de caracteres; descargue un respaldo.');
+      await fetch(url,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain;charset=UTF-8'},body:JSON.stringify({manual:JSON.parse(snapshot),versionAnterior:version,versionNueva:next})});
+      const result=await read();
+      if(result.version!==next){paused=true;pending=true;throw Error('No se confirmó el guardado; el manual pudo cambiar en otro dispositivo. Conserve su respaldo y recargue para revisar.');}
+      version=next;status('Guardado en Google Sheets');
+      if(JSON.stringify(state)!==snapshot)pending=true;
+    }catch(e){paused=true;pending=true;status('Sin sincronizar · respaldo local'); alert('FINLAB: '+e.message);}
+    finally{running=false;if(pending&&!paused)schedule()}
+  }
+  const localSave=saveNow;
+  saveNow=async function(){await localSave();if(!dirty)schedule()};
+  async function start(){
+    for(let i=0;i<100&&!db;i++)await new Promise(r=>setTimeout(r,100));
+    if(!db){status('Sin almacenamiento local');return}
+    try{
+      status('Conectando con Google Sheets…');
+      const remote=await read();
+      if(!Object.prototype.hasOwnProperty.call(remote,'version'))throw Error('La versión nueva de Apps Script aún no está implementada.');
+      version=String(remote.version);
+      if(remote.manual){
+        const restored=safeState(remote.manual);
+        if(hasWork(state)&&JSON.stringify(state)!==JSON.stringify(restored)){
+          status('Hay dos versiones · sincronización pausada');
+          alert('Existe un trabajo local diferente al manual compartido. Descargue un respaldo JSON antes de continuar y consulte al docente. No se reemplazó ningún dato.');return;
+        }
+        state=restored;await localSave();render();
+      }else if(hasWork(state)){
+        if(!confirm('La nube está vacía y este navegador tiene un trabajo local. ¿Desea guardarlo como el manual compartido?')){status('Solo guardado local');return;}
+        pending=true;
+      }
+      paused=false;status('Conectado a Google Sheets');if(pending)schedule();
+    }catch(e){status('Sin sincronizar · respaldo local');console.error(e);}
+  }
+  start();
+})();
+
 </script></body></html>
