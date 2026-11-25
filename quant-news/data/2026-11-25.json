@@ -1,0 +1,83 @@
+{
+  "id": "2026-11-25",
+  "date": "2026-11-25",
+  "label": "Miércoles, 25 de noviembre de 2026",
+  "eyebrow": "Edición del miércoles",
+  "headline": "Wall Street, aranceles y dólar: el costo del capital y la competencia tecnológica",
+  "intro": "Buenos días.\nHoy es miércoles, veinticinco de noviembre de dos mil veintiséis.\nComienza una nueva jornada y el mundo sigue moviéndose.\nMientras despiertas, vamos a recorrer juntos las noticias que están marcando la economía, los mercados financieros y la tecnología.\nHoy conectaremos lo que ocurre en el mundo con las decisiones que pueden influir en nuestra economía y nuestras oportunidades.\nHoy revisaremos el retroceso tecnológico en Wall Street, los posibles nuevos aranceles estadounidenses y el ascenso del dólar en Colombia.\nEsto es QUANT News, tu informe de inteligencia para comenzar el día.\nEstas son las noticias que vale la pena conocer.",
+  "outro": "El hilo conductor de hoy. La volatilidad tecnológica, el debate monetario estadounidense y la perspectiva de Fitch conectan por el costo del capital y la capacidad de financiar inversiones. Colombia recibe estos riesgos a través de los mercados de deuda y divisas; el aumento de la tasa representativa es un hecho, pero no demuestra una causa única. En Meta y la Orinoquía, el tipo de cambio puede afectar insumos importados y los ingresos en pesos del sector petrolero, sin que se haya verificado un efecto local nuevo. Tres señales para vigilar: primera, el informe estadounidense de inflación del consumo personal y los rendimientos del Tesoro; segunda, el Nasdaq y los anuncios oficiales sobre aranceles; tercera, el dólar frente al peso y el Brent. Hasta aquí QUANT News. Información para comprender, analizar y anticipar. Que tengas una excelente jornada.",
+  "stories": [
+    {
+      "id": "2026-11-25-1",
+      "title": "Wall Street vuelve a retroceder en tecnología",
+      "category": "Mercados",
+      "region": "Estados Unidos",
+      "text": "El Nasdaq perdió uno coma cuarenta y ocho por ciento el martes, el S y P quinientos cayó medio punto porcentual y el Dow Jones ganó cero coma ochenta y cinco por ciento. Nvidia retrocedió cinco coma nueve por ciento. La divergencia muestra que la presión no fue uniforme; una caída persistente podría reducir el apetito por activos emergentes.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/wall-st-futures-dip-chip-stocks-cool-after-nvidia-fueled-rally-2026-11-24/"
+    },
+    {
+      "id": "2026-11-25-2",
+      "title": "Estados Unidos prepara posibles aranceles para dieciséis socios",
+      "category": "Comercio",
+      "region": "Global",
+      "text": "Reuters informó, citando fuentes conocedoras, que Washington prepara los resultados de una investigación sobre exceso de capacidad industrial y posibles nuevos aranceles. No se trata todavía de tarifas definitivas verificadas. Su aplicación podría alterar costos de importación y cadenas de suministro.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-administration-set-unveil-new-tariffs-after-probe-on-excess-factory-2026-11-24/"
+    },
+    {
+      "id": "2026-11-25-3",
+      "title": "La inteligencia artificial entra en el debate monetario de la Reserva Federal",
+      "category": "Macroeconomía",
+      "region": "Estados Unidos",
+      "text": "Reuters documentó que varios funcionarios de la Reserva Federal consideran que la inversión en inteligencia artificial puede presionar la capacidad productiva y los precios a corto plazo. Los beneficios de productividad podrían llegar después. Una política monetaria más restrictiva encarecería el crédito, pero no se ha anunciado una nueva decisión de tasas.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/ai-boom-looms-over-warshs-fed-inflation-worries-grow-2026-11-24/"
+    },
+    {
+      "id": "2026-11-25-4",
+      "title": "Fitch mantiene neutral su perspectiva soberana mundial",
+      "category": "Finanzas",
+      "region": "Global",
+      "text": "Fitch proyecta un crecimiento mundial cercano al dos coma cinco por ciento para dos mil veintisiete y advierte sobre deuda y costos financieros elevados. Es una previsión, no un resultado observado. Para Colombia, el riesgo relevante es el costo de refinanciar deuda en mercados internacionales.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/europe/fitch-sets-neutral-global-sovereign-rating-outlook-warns-debt-war-ai-risks-2026-11-24/"
+    },
+    {
+      "id": "2026-11-25-5",
+      "title": "Alemania crece menos de lo estimado",
+      "category": "Macroeconomía",
+      "region": "Europa",
+      "text": "La oficina estadística alemana revisó el crecimiento del tercer trimestre a cero coma uno por ciento frente al trimestre anterior, desde cero coma dos por ciento. Exportaciones y ventas minoristas más débiles explicaron la revisión. Una demanda europea débil podría limitar oportunidades exportadoras, sin demostrar una pérdida concreta para Colombia.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/german-economy-grows-by-01-q3-stats-office-says-2026-11-25/"
+    },
+    {
+      "id": "2026-11-25-6",
+      "title": "Europa estudia un fondo tecnológico de hasta cincuenta mil millones de euros",
+      "category": "Innovación",
+      "region": "Europa",
+      "text": "Reuters recogió información del Financial Times sobre un posible fondo europeo para reducir la dependencia tecnológica de Estados Unidos y China. La cifra corresponde a un plan en discusión, no a desembolsos realizados. Su materialización podría ampliar las fuentes de financiación de empresas tecnológicas europeas.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/eu-plans-50-billion-tech-fund-challenge-us-china-ft-reports-2026-11-25/"
+    },
+    {
+      "id": "2026-11-25-7",
+      "title": "China y Estados Unidos dialogan sobre comercio agrícola",
+      "category": "Comercio",
+      "region": "China",
+      "text": "El Ministerio de Comercio chino informó de la primera reunión del grupo bilateral de agricultura, celebrada en Pekín el lunes y martes. Se discutieron regulación, acceso a mercados y comercio, sin anunciar concesiones específicas. Los cambios futuros podrían modificar la competencia agrícola internacional.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/china-us-discuss-farm-trade-market-access-agriculture-talks-2026-11-25/"
+    },
+    {
+      "id": "2026-11-25-8",
+      "title": "El dólar oficial colombiano sube dos coma cuarenta y seis por ciento",
+      "category": "Divisas",
+      "region": "Colombia",
+      "text": "La tasa representativa del mercado vigente hoy es de tres mil quinientos noventa y dos pesos con tres centavos por dólar, ochenta y seis pesos con once centavos más que ayer. La cifra coincide en Colombia.com y La República. Una depreciación sostenida encarecería importaciones y deudas en dólares, aunque puede favorecer ingresos de exportadores.",
+      "source": "Colombia.com",
+      "url": "https://www.colombia.com/actualidad/economia/precio-del-dolar-hoy-en-colombia-miercoles-25-de-noviembre-de-2026-614079"
+    }
+  ]
+}
