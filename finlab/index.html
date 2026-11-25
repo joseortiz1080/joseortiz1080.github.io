@@ -56,7 +56,7 @@ $('menu').onclick=()=>$('nav').classList.toggle('open');
 (function(){
   const URL_DATOS='https://script.google.com/macros/s/AKfycbwfgtZKskIATw8XALI1G7lWUBayznuQJQ2Hb-dKAzCMHQYs6nwQyWm3X_U_f6xb2jyQsA/exec';
   let base=null, saving=false, unsaved=new Set();
-  const id=p=>JSON.stringify(p), equal=(a,b)=>JSON.stringify(a)===JSON.stringify(b);
+  const id=p=>JSON.stringify(p), canonical=v=>Array.isArray(v)?v.map(canonical):v&&typeof v==='object'?Object.keys(v).sort().reduce((o,k)=>(o[k]=canonical(v[k]),o),{}):v, equal=(a,b)=>JSON.stringify(canonical(a))===JSON.stringify(canonical(b));
   function get(o,p){return p.reduce((x,k)=>x[k],o)}
   function set(o,p,v){let x=o;for(let i=0;i<p.length-1;i++)x=x[p[i]];x[p[p.length-1]]=structuredClone(v)}
   function message(t){$('saveState').textContent=t}
@@ -108,7 +108,7 @@ $('menu').onclick=()=>$('nav').classList.toggle('open');
   save=function(){message('Hay cambios sin guardar')};
   saveNow=async function(){message(unsaved.size?'Hay cambios sin guardar':'Conectado a Google Sheets')};
   window.addEventListener('beforeunload',e=>{if(unsaved.size||saving){e.preventDefault();e.returnValue=''}});
-  async function start(){try{message('Cargando manual…');const result=await read();if(result.api!==3)throw Error('Falta actualizar Apps Script a la versión de guardado por caja.');if(!result.manual)throw Error('No existe un manual compartido.');state=safeState(result.manual);base=structuredClone(state);dirty=false;render();message('Conectado a Google Sheets')}catch(e){message('No se pudo cargar');$('main').textContent=e.message}}
+  async function start(){try{message('Cargando manual…');const result=await read();if(result.api!==3)throw Error('Falta actualizar Apps Script a la versión de guardado por caja.');if(!result.manual)throw Error('No existe un manual compartido.');state=safeState(result.manual);base=structuredClone(result.manual);dirty=false;render();message('Conectado a Google Sheets')}catch(e){message('No se pudo cargar');$('main').textContent=e.message}}
   start();
 })();
 
